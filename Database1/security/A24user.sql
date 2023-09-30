@@ -1,0 +1,2 @@
+﻿CREATE USER [A24user] FOR LOGIN [A24user];
+

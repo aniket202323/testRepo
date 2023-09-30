@@ -1,0 +1,3 @@
+﻿CREATE PROCEDURE dbo.spServer_CalcMgrClearGeneTable
+as
+delete from CalcMgrGenealogyCache

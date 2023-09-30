@@ -1,0 +1,2 @@
+﻿CREATE USER [CLUser] FOR LOGIN [CLUser];
+

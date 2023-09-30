@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [ComXClient]
+    AUTHORIZATION [ComXClient];
+

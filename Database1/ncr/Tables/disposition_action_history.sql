@@ -1,0 +1,28 @@
+﻿CREATE TABLE [ncr].[disposition_action_history] (
+    [id]                      BIGINT         IDENTITY (1, 1) NOT NULL,
+    [created_by]              VARCHAR (255)  NULL,
+    [created_on]              DATETIME2 (7)  NULL,
+    [last_modified_by]        VARCHAR (255)  NULL,
+    [last_modified_on]        DATETIME2 (7)  NULL,
+    [version]                 INT            NULL,
+    [column_updated_bitmask]  VARCHAR (15)   NULL,
+    [dbtt_id]                 INT            NULL,
+    [modified_on]             DATETIME2 (7)  NULL,
+    [disposition_action_id]   BIGINT         NULL,
+    [action_note]             NVARCHAR (MAX) NULL,
+    [comment_id]              VARCHAR (255)  NULL,
+    [da_reason_level1_id]     VARCHAR (255)  NULL,
+    [da_reason_level2_id]     VARCHAR (255)  NULL,
+    [da_reason_level3_id]     VARCHAR (255)  NULL,
+    [da_reason_level4_id]     VARCHAR (255)  NULL,
+    [disposition_plan_id]     BIGINT         NULL,
+    [disposition_type_id]     BIGINT         NULL,
+    [elapsed_time]            INT            NULL,
+    [name]                    VARCHAR (255)  NULL,
+    [quantity]                FLOAT (53)     NULL,
+    [status]                  VARCHAR (255)  NULL,
+    [last_modified_operation] VARCHAR (255)  NULL,
+    PRIMARY KEY CLUSTERED ([id] ASC),
+    CONSTRAINT [FK__dispositi__dispo__534D60F1] FOREIGN KEY ([disposition_action_id]) REFERENCES [ncr].[disposition_action] ([id])
+);
+

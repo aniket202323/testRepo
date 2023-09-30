@@ -1,0 +1,2 @@
+﻿CREATE USER [NA\LAB0132eDH.im] FOR LOGIN [NA\lab0132edh.im];
+

@@ -1,0 +1,10 @@
+﻿CREATE PROCEDURE [dbo].[splocal_RptDPR]
+@inTimeOption INT NULL, @RPTLineDESCList NVARCHAR (MAX) NULL, @RPTShiftDESCList NVARCHAR (MAX) NULL, @RPTCrewDESCList NVARCHAR (MAX) NULL, @RPTPLStatusDESCList NVARCHAR (MAX) NULL, @RPTMajorGroupBy NVARCHAR (50) NULL, @RPTMinorGroupBy NVARCHAR (50) NULL, @RPTStartDate NVARCHAR (25) NULL, @RPTEndDate NVARCHAR (25) NULL, @OutputType NVARCHAR (255) NULL, @RPTKPISelectionList NVARCHAR (MAX) NULL
+WITH ENCRYPTION
+AS
+BEGIN
+--The script body was encrypted and cannot be reproduced here.
+    RETURN
+END
+
+

@@ -1,0 +1,2 @@
+﻿CREATE USER [SQLMonitor] FOR LOGIN [SQLMonitor];
+

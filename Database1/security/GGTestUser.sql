@@ -1,0 +1,2 @@
+﻿CREATE USER [GGTestUser] FOR LOGIN [GGTestUser];
+

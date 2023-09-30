@@ -1,0 +1,18 @@
+﻿CREATE view SDK_V_PAAlarmTemplateSPCRuleData
+as
+select
+Alarm_Template_SPC_Rule_Data.ATSRD_Id as Id,
+Alarm_Templates.AT_Desc as AlarmTemplate,
+Alarm_Template_SPC_Rule_Data.AT_Id as AlarmTemplateId,
+Alarm_SPC_Rules.alarm_spc_rule_desc as AlarmSPCRule,
+Alarm_Template_SPC_Rule_Data.alarm_spc_rule_id as AlarmSPCRuleId,
+Alarm_Template_SPC_Rule_Data.Firing_Priority as FiringPriority,
+Alarm_Template_SPC_Rule_Data.AP_Id as AlarmPriorityId,
+AP_Src.AP_Desc as AlarmPriority,
+Alarm_Template_SPC_Rule_Data.SPC_Group_Variable_Type_Id as SPCGroupVariableTypeId,
+SPCGroupVariableType_Src.SPC_Group_Variable_Type_Desc as SPCGroupVariableType
+from Alarm_Template_SPC_Rule_Data
+join Alarm_Templates on Alarm_Templates.AT_Id = Alarm_Template_SPC_Rule_Data.AT_Id
+join Alarm_SPC_Rules on Alarm_SPC_Rules.Alarm_SPC_Rule_Id = Alarm_Template_SPC_Rule_Data.Alarm_SPC_Rule_Id
+ Left Join Alarm_Priorities AP_Src on AP_Src.AP_Id = Alarm_Template_SPC_Rule_Data.AP_Id 
+ Left Join SPC_Group_Variable_Types SPCGroupVariableType_Src on SPCGroupVariableType_Src.SPC_Group_Variable_Type_Id = Alarm_Template_SPC_Rule_Data.SPC_Group_Variable_Type_Id 

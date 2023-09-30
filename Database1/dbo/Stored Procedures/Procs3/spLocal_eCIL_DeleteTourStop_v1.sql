@@ -1,0 +1,1 @@
+﻿CREATE PROCEDURE dbo.spLocal_eCIL_DeleteTourStop_v1 AS RETURN 0;

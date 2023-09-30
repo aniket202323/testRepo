@@ -1,0 +1,10 @@
+﻿CREATE PROCEDURE [dbo].[spLocal_QV_GetSpecs]
+@vcrRule VARCHAR (1) NULL, @intPUID INT NULL, @dtmProdTS DATETIME NULL, @dtmSpecTS DATETIME NULL, @intVarID INT NULL, @vcrTarget VARCHAR (30) NULL OUTPUT, @vcrLS VARCHAR (30) NULL OUTPUT, @vcrUS VARCHAR (30) NULL OUTPUT, @vcrLC VARCHAR (30) NULL OUTPUT, @vcrUC VARCHAR (30) NULL OUTPUT, @vcrLW VARCHAR (30) NULL OUTPUT, @vcrUW VARCHAR (30) NULL OUTPUT
+WITH ENCRYPTION
+AS
+BEGIN
+--The script body was encrypted and cannot be reproduced here.
+    RETURN
+END
+
+

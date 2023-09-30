@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[LOCAL_PE_HEALTH_LOGDETAIL] (
+    [LogDetail_Id]       INT            IDENTITY (1, 1) NOT NULL,
+    [LogHeader_Id]       INT            NOT NULL,
+    [LogAttribute_Id]    INT            NOT NULL,
+    [LogAttribute_Value] NVARCHAR (MAX) NULL,
+    CONSTRAINT [PK_LogDetail_Id] PRIMARY KEY CLUSTERED ([LogDetail_Id] ASC),
+    CONSTRAINT [FK_HEALTH_LOGDETAIL_HEALTH_LOGATTRIBUTE] FOREIGN KEY ([LogAttribute_Id]) REFERENCES [dbo].[LOCAL_PE_HEALTH_LOGATTRIBUTE] ([LogAttribute_Id]),
+    CONSTRAINT [FK_HEALTH_LOGDETAIL_HEALTH_LOGHEADER] FOREIGN KEY ([LogHeader_Id]) REFERENCES [dbo].[LOCAL_PE_HEALTH_LOGHEADER] ([LogHeader_Id])
+);
+

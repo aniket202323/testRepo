@@ -1,0 +1,7 @@
+﻿CREATE ROLE [R_PQFE]
+    AUTHORIZATION [dbo];
+
+
+GO
+ALTER ROLE [R_PQFE] ADD MEMBER [NA\devpqfe.im];
+

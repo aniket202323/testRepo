@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Email_Groups] (
+    [EG_Id]   INT           IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
+    [EG_Desc] VARCHAR (100) NOT NULL,
+    CONSTRAINT [EmailGroups_PK_EGId] PRIMARY KEY CLUSTERED ([EG_Id] ASC)
+);
+

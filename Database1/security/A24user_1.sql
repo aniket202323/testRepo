@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [A24user]
+    WITH PASSWORD = N'editjpokMewY>i4ib|kGfoa`msFT7_&#$!~<vtf4ajtmxd2q', SID = 0x7F0B1936AEAC97448210F1ADCE67627E, DEFAULT_LANGUAGE = [us_english];
+

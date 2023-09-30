@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [msmespcmt.im1]
+    WITH PASSWORD = N'edtEjpk5eewii8bfoaRZavtXmsFT7_&#$!~<faAjbtmxcajD', SID = 0x1462E2F4F1D9C845B00A8AD9F4D72B94, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

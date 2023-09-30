@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Local_tblRTCISSimulatedDataPreStaging] (
+    [MATREQ]     SMALLINT     NOT NULL,
+    [ULID]       VARCHAR (25) NOT NULL,
+    [SITNAM]     VARCHAR (25) NOT NULL,
+    [LOCATN]     VARCHAR (25) NOT NULL,
+    [ITMCOD]     VARCHAR (25) NOT NULL,
+    [CTLGRP]     VARCHAR (25) NOT NULL,
+    [CASQTY]     VARCHAR (25) NOT NULL,
+    [CASQTY_UOM] VARCHAR (25) NOT NULL
+);
+

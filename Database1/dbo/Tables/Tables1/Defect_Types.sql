@@ -1,0 +1,25 @@
+﻿CREATE TABLE [dbo].[Defect_Types] (
+    [Defect_Type_Id]      INT          IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
+    [Coordinate_Name_A]   VARCHAR (25) NULL,
+    [Coordinate_Name_X]   VARCHAR (25) NULL,
+    [Coordinate_Name_Y]   VARCHAR (25) NULL,
+    [Coordinate_Name_Z]   VARCHAR (25) NULL,
+    [Default_Dimension_A] REAL         NULL,
+    [Default_Dimension_X] REAL         NULL,
+    [Default_Dimension_Y] REAL         NULL,
+    [Default_Dimension_Z] REAL         NULL,
+    [Default_Severity]    INT          NULL,
+    [Defect_Name]         VARCHAR (50) NOT NULL,
+    [Dimension_Name_A]    VARCHAR (25) NULL,
+    [Dimension_Name_X]    VARCHAR (25) NULL,
+    [Dimension_Name_Y]    VARCHAR (25) NULL,
+    [Dimension_Name_Z]    VARCHAR (25) NULL,
+    [Option_1]            VARCHAR (25) NULL,
+    [Option_2]            VARCHAR (25) NULL,
+    [Option_3]            VARCHAR (25) NULL,
+    [Option_4]            VARCHAR (25) NULL,
+    [Option_5]            VARCHAR (25) NULL,
+    [Spec_Id]             INT          NULL,
+    CONSTRAINT [Defect_Types_PK_DefectTypeId] PRIMARY KEY CLUSTERED ([Defect_Type_Id] ASC)
+);
+

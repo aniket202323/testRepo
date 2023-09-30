@@ -1,0 +1,3 @@
+﻿Create Procedure dbo.spDBR_Get_Frequency_Types
+AS
+ 	 select dashboard_Frequency_type_id, dashboard_frequency_type, dashboard_frequency_conversion_factor from dashboard_frequency_types 

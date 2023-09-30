@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Client_Connection_Statuses] (
+    [CCS_Id]   TINYINT      IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
+    [CCS_Desc] VARCHAR (50) NOT NULL,
+    CONSTRAINT [CCStatuses_PK_CCsId] PRIMARY KEY CLUSTERED ([CCS_Id] ASC)
+);
+

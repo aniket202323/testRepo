@@ -1,0 +1,10 @@
+﻿CREATE PROCEDURE [dbo].[splocal_CmnWFPrIMEUpdateRequestStatusFromEventId]
+@EventID VARCHAR (50) NULL, @Status VARCHAR (50) NULL
+WITH ENCRYPTION
+AS
+BEGIN
+--The script body was encrypted and cannot be reproduced here.
+    RETURN
+END
+
+

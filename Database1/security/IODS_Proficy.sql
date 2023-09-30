@@ -1,0 +1,11 @@
+﻿CREATE ROLE [IODS_Proficy]
+    AUTHORIZATION [dbo];
+
+
+GO
+ALTER ROLE [IODS_Proficy] ADD MEMBER [OpDBManager];
+
+
+GO
+ALTER ROLE [IODS_Proficy] ADD MEMBER [OpDBReaderCloud];
+

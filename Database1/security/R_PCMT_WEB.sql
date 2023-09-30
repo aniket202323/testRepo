@@ -1,0 +1,23 @@
+﻿CREATE ROLE [R_PCMT_WEB]
+    AUTHORIZATION [dbo];
+
+
+GO
+ALTER ROLE [R_PCMT_WEB] ADD MEMBER [l_msmespcmt];
+
+
+GO
+ALTER ROLE [R_PCMT_WEB] ADD MEMBER [na\msmespcmtlab8.im];
+
+
+GO
+ALTER ROLE [R_PCMT_WEB] ADD MEMBER [msmespcmt.im];
+
+
+GO
+ALTER ROLE [R_PCMT_WEB] ADD MEMBER [NA\msmespcmt.im];
+
+
+GO
+ALTER ROLE [R_PCMT_WEB] ADD MEMBER [INT\msmespcmt.im];
+

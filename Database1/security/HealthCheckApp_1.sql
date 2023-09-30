@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [HealthCheckApp]
+    WITH PASSWORD = N'pv{|tSye1l%kdyGR%as{v5WqmsFT7_&#$!~<c<ca&q,ygznx', SID = 0x39292F22385E2D459FF9717BF34FE1B6, DEFAULT_DATABASE = [GBDB], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

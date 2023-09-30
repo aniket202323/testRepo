@@ -1,0 +1,20 @@
+﻿CREATE TYPE [dbo].[DisplayOptions] AS TABLE (
+    [PU_Id]                  INT NULL,
+    [MasterUnit]             INT NULL,
+    [AddSecurity]            INT NULL,
+    [DeleteSecurity]         INT NULL,
+    [CloseSecurity]          INT NULL,
+    [OpenSecurity]           INT NULL,
+    [EditStartTimeSecurity]  INT NULL,
+    [AddComments]            INT NULL,
+    [AssignReasons]          INT NULL,
+    [ChangeComments]         INT NULL,
+    [ChangeFault]            INT NULL,
+    [ChangeLocation]         INT NULL,
+    [OverlapRecords]         INT NULL,
+    [SplitRecords]           INT NULL,
+    [CopyPasteReasons&Fault] INT NULL,
+    [CopyFault]              INT NULL,
+    [CopyReasons]            INT NULL,
+    [UsersSecurity]          INT NULL);
+

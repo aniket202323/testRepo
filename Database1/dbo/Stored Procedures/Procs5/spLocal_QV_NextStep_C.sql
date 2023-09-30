@@ -1,0 +1,10 @@
+﻿CREATE PROCEDURE [dbo].[spLocal_QV_NextStep_C]
+@OutputValue VARCHAR (25) NULL OUTPUT, @Type VARCHAR (30) NULL, @Rule VARCHAR (30) NULL, @Typo VARCHAR (30) NULL, @CT1 VARCHAR (30) NULL, @CT2 VARCHAR (30) NULL, @CT3 VARCHAR (30) NULL, @CT4 VARCHAR (30) NULL, @CT5 VARCHAR (30) NULL, @CT6 VARCHAR (30) NULL
+WITH ENCRYPTION
+AS
+BEGIN
+--The script body was encrypted and cannot be reproduced here.
+    RETURN
+END
+
+

@@ -1,0 +1,6 @@
+﻿CREATE view SDK_V_PAAlarmVariableRule
+as
+select
+Alarm_Variable_Rules.Alarm_Variable_Rule_Desc as AlarmVariableRule,
+Alarm_Variable_Rules.Alarm_Variable_Rule_Id as Id
+from Alarm_Variable_Rules

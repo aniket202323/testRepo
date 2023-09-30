@@ -1,0 +1,18 @@
+﻿CREATE  PROCEDURE [dbo].spLocal_CmnWFGetEquipmentNameFromGUID
+	@GUID				varchar(36)
+ 
+
+AS
+SET NOCOUNT ON
+DECLARE @S95ID			varchar(50)
+
+
+SET @S95ID = (SELECT TOP 1 S95ID FROM dbo.equipment WITH(NOLOCK) WHERE equipmentId = @GUID)
+
+IF @S95ID IS NULL
+	SET @S95ID = 'INVALID'
+
+SELECT @S95ID as 'S95ID'
+
+SET NOCOUNT OFF
+RETURN

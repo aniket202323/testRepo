@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [GGTestUser]
+    WITH PASSWORD = N'peAvD{|etvB{yelc`kdyasX{msFT7_&#$!~<v>qcY0aq<ygn', SID = 0xF4CA739056423B4EA127A77444345760, DEFAULT_LANGUAGE = [us_english], CHECK_EXPIRATION = ON;
+

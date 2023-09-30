@@ -1,0 +1,92 @@
+﻿CREATE view SDK_V_PAProductionUnit
+as
+select
+Prod_Units_Base.PU_Id as Id,
+Prod_Units_Base.PU_Desc as ProductionUnit,
+Prod_Units_Base.PL_Id as ProductionLineId,
+Prod_Lines_Base.PL_Desc as ProductionLine,
+Prod_Lines_Base.Dept_Id as DepartmentId,
+Departments_Base.Dept_Desc as Department,
+Prod_Units_Base.Master_Unit as MasterUnitId,
+master.PU_Desc as MasterUnit,
+Prod_Units_Base.Comment_Id as CommentId,
+Prod_Units_Base.Extended_Info as ExtendedInfo,
+Comments.Comment_Text as CommentText,
+Prod_Units_Base.PU_Order as ProductionUnitOrder,
+Prod_Units_Base.Unit_Type_Id as UnitTypeId,
+Unit_Types.UT_Desc as UnitType,
+Prod_Units_Base.Chain_Start_Time as ChainStartTime,
+Prod_Units_Base.Def_Event_Sheet_Id as DefEventSheetId,
+Prod_Units_Base.Def_Measurement as DefMeasurement,
+Prod_Units_Base.Def_Production_Dest as DefProductionDest,
+Prod_Units_Base.Def_Production_Src as DefProductionSrc,
+Prod_Units_Base.Delete_Child_Events as DeleteChildEvents,
+Prod_Units_Base.Downtime_Percent_Alarm_Interval as DowntimePercentAlarmInterval,
+Prod_Units_Base.Downtime_Percent_Alarm_Window as DowntimePercentAlarmWindow,
+Prod_Units_Base.Efficiency_Calculation_Type as EfficiencyCalculationType,
+Prod_Units_Base.Efficiency_Percent_Alarm_Interval as EfficiencyPercentAlarmInterval,
+Prod_Units_Base.Efficiency_Percent_Alarm_Window as EfficiencyPercentAlarmWindow,
+Prod_Units_Base.Equipment_Type as EquipmentType,
+Prod_Units_Base.External_Link as ExternalLink,
+Prod_Units_Base.Performance_Downtime_Category as PerformanceDowntimeCategory,
+Prod_Units_Base.Production_Alarm_Interval as ProductionAlarmInterval,
+Prod_Units_Base.Production_Alarm_Window as ProductionAlarmWindow,
+Prod_Units_Base.Production_Rate_TimeUnits as ProductionRateTimeUnits,
+Prod_Units_Base.Production_Type as ProductionType,
+Prod_Units_Base.Tag as Tag,
+Prod_Units_Base.Timed_Event_Association as TimedEventAssociation,
+Prod_Units_Base.User_Defined1 as UserDefined1,
+Prod_Units_Base.User_Defined2 as UserDefined2,
+Prod_Units_Base.User_Defined3 as UserDefined3,
+Prod_Units_Base.Uses_Start_Time as UsesStartTime,
+Prod_Units_Base.Waste_Event_Association as WasteEventAssociation,
+Prod_Units_Base.Waste_Percent_Alarm_Interval as WastePercentAlarmInterval,
+Prod_Units_Base.Waste_Percent_Alarm_Window as WastePercentAlarmWindow,
+Prod_Units_Base.Default_Path_Id as DefaultPathId,
+DefaultPath_Src.Path_Desc as DefaultPath,
+Prod_Units_Base.Downtime_External_Category as DowntimeExternalCategoryId,
+DowntimeExternalCategory_Src.ERC_Desc as DowntimeExternalCategory,
+Prod_Units_Base.Downtime_Percent_Specification as DowntimePercentSpecificationId,
+DowntimePercentSpecification_Src.Spec_Desc as DowntimePercentSpecification,
+Prod_Units_Base.Downtime_Scheduled_Category as DowntimeScheduledCategoryId,
+DowntimeScheduledCategory_Src.ERC_Desc as DowntimeScheduledCategory,
+Prod_Units_Base.Efficiency_Percent_Specification as EfficiencyPercentSpecificationId,
+EfficiencyPercentSpecification_Src.Spec_Desc as EfficiencyPercentSpecification,
+Prod_Units_Base.Efficiency_Variable as EfficiencyVariableId,
+EfficiencyVariable_Src.Var_Desc as EfficiencyVariable,
+Prod_Units_Base.Non_Productive_Category as NonProductiveCategoryId,
+NonProductiveCategory_Src.ERC_Desc as NonProductiveCategory,
+Prod_Units_Base.Non_Productive_Reason_Tree as NonProductiveReasonTreeId,
+NonProductiveReasonTree_Src.Tree_Name as NonProductiveReasonTree,
+Prod_Units_Base.Production_Event_Association as ProductionEventAssociationId,
+ProductionEventAssociation_Src.PEA_Desc as ProductionEventAssociation,
+Prod_Units_Base.Production_Rate_Specification as ProductionRateSpecificationId,
+ProductionRateSpecification_Src.Spec_Desc as ProductionRateSpecification,
+Prod_Units_Base.Production_Variable as ProductionVariableId,
+ProductionVariable_Src.Var_Desc as ProductionVariable,
+Prod_Units_Base.Group_Id as SecurityGroupId,
+SecurityGroup_Src.Group_Desc as SecurityGroup,
+Prod_Units_Base.Sheet_Id as SheetId,
+Sheet_Src.Sheet_Desc as Sheet,
+Prod_Units_Base.Waste_Percent_Specification as WastePercentSpecificationId,
+WastePercentSpecification_Src.Spec_Desc as WastePercentSpecification
+FROM Departments_Base
+ INNER JOIN Prod_Lines_Base ON Departments_Base.Dept_Id = Prod_Lines_Base.Dept_Id AND Prod_Lines_Base.PL_Id > 0 
+ INNER JOIN Prod_Units_Base ON Prod_Lines_Base.pl_id = Prod_Units_Base.pl_id  AND Prod_Units_Base.PU_Id > 0 
+ LEFT JOIN Prod_Units_Base master ON master.PU_Id = Prod_Units_Base.Master_Unit 
+ LEFT JOIN Unit_Types on Unit_Types.Unit_Type_Id = Prod_Units_Base.Unit_Type_Id 
+ Left Join Prdexec_Paths DefaultPath_Src on DefaultPath_Src.Path_Id = Prod_Units_Base.Default_Path_Id 
+ Left Join Event_Reason_Catagories DowntimeExternalCategory_Src on DowntimeExternalCategory_Src.ERC_Id = Prod_Units_Base.Downtime_External_Category 
+ Left Join Specifications DowntimePercentSpecification_Src on DowntimePercentSpecification_Src.Spec_Id = Prod_Units_Base.Downtime_Percent_Specification 
+ Left Join Event_Reason_Catagories DowntimeScheduledCategory_Src on DowntimeScheduledCategory_Src.ERC_Id = Prod_Units_Base.Downtime_Scheduled_Category 
+ Left Join Specifications EfficiencyPercentSpecification_Src on EfficiencyPercentSpecification_Src.Spec_Id = Prod_Units_Base.Efficiency_Percent_Specification 
+ Left join Variables_Base EfficiencyVariable_Src on EfficiencyVariable_Src.Var_Id = Prod_Units_Base.Efficiency_Variable 
+ Left Join Security_Groups SecurityGroup_Src on SecurityGroup_Src.Group_Id = Prod_Units_Base.Group_Id 
+ Left Join Event_Reason_Catagories NonProductiveCategory_Src on NonProductiveCategory_Src.ERC_Id = Prod_Units_Base.Non_Productive_Category 
+ Left Join Event_Reason_Tree NonProductiveReasonTree_Src on NonProductiveReasonTree_Src.Tree_Name_Id = Prod_Units_Base.Non_Productive_Reason_Tree 
+ Left Join Production_Event_Association ProductionEventAssociation_Src on ProductionEventAssociation_Src.PEA_Id = Prod_Units_Base.Production_Event_Association 
+ Left Join Specifications ProductionRateSpecification_Src on ProductionRateSpecification_Src.Spec_Id = Prod_Units_Base.Production_Rate_Specification 
+ Left join Variables_Base ProductionVariable_Src on ProductionVariable_Src.Var_Id = Prod_Units_Base.Production_Variable 
+ Left Join Sheets Sheet_Src on Sheet_Src.Sheet_Id = Prod_Units_Base.Sheet_Id 
+ Left Join Specifications WastePercentSpecification_Src on WastePercentSpecification_Src.Spec_Id = Prod_Units_Base.Waste_Percent_Specification 
+LEFT JOIN Comments Comments on Comments.Comment_Id=Prod_Units_Base.Comment_Id

@@ -1,0 +1,3 @@
+﻿CREATE SCHEMA [labor]
+    AUTHORIZATION [dbo];
+

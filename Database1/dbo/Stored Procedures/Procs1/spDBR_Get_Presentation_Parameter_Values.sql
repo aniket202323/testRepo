@@ -1,0 +1,5 @@
+﻿Create Procedure dbo.spDBR_Get_Presentation_Parameter_Values
+@datatable_header_id int
+AS
+ 	 select h.dashboard_datatable_header, p.dashboard_datatable_presentation_parameter_order from dashboard_datatable_presentation_parameters p, dashboard_datatable_headers h where p.dashboard_datatable_header_id = @datatable_header_id and 
+ 	 p.dashboard_datatable_presentation_parameter_input = h.dashboard_datatable_header_id order by p.dashboard_datatable_presentation_parameter_order
