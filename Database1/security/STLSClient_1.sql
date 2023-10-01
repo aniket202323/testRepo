@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [STLSClient]
-    WITH PASSWORD = N'R4pvk{|tyelskdEyas{vs;mqmsFT7_&#$!~<cau 7qyx=ogn', SID = 0x6CC18B60C0E90746AA7C6BD4275511F0, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

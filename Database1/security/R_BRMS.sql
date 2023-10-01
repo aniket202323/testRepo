@@ -1,7 +1,0 @@
-﻿CREATE ROLE [R_BRMS]
-    AUTHORIZATION [dbo];
-
-
-GO
-ALTER ROLE [R_BRMS] ADD MEMBER [NA\brmsinterface.im];
-

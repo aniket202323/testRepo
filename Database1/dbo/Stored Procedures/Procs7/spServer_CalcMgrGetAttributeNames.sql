@@ -1,4 +1,0 @@
-﻿CREATE PROCEDURE dbo.spServer_CalcMgrGetAttributeNames
-AS
-select calc_input_Attribute_id, Attribute_Name from calculation_input_attributes
-order by calc_input_Attribute_id

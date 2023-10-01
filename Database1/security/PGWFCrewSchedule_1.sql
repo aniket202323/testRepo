@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [PGWFCrewSchedule]
-    WITH PASSWORD = N'pv{|{tyeGlkd@yWas{vqcaTqmsFT7_&#$!~<`yg0nx4Ytxbd', SID = 0x63ADE21260684748854BF8A1A78E4FE1, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

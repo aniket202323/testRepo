@@ -1,6 +1,0 @@
-﻿CREATE view SDK_V_PAParameterCategory
-as
-select
-Parameter_Categories.Parameter_Category_Id as Id,
-Parameter_Categories.Parameter_Category_Desc as ParameterCategory
-from Parameter_Categories

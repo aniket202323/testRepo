@@ -1,6 +1,0 @@
-﻿CREATE view SDK_V_PASpecTransactionGroup
-as
-select
-Transaction_Groups.Transaction_Grp_Id as Id,
-Transaction_Groups.Transaction_Grp_Desc as SpecTransactionGroup
-From Transaction_Groups

@@ -1,6 +1,0 @@
-﻿CREATE TABLE [dbo].[CXSMarshal] (
-    [CXSMarshalId] SMALLINT IDENTITY (1, 1) NOT FOR REPLICATION NOT NULL,
-    [Lock]         BIT      NOT NULL,
-    CONSTRAINT [CXSMarshal_PK_Id] PRIMARY KEY CLUSTERED ([CXSMarshalId] ASC)
-);
-

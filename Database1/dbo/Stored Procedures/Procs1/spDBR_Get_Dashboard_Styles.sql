@@ -1,3 +1,0 @@
-﻿Create Procedure dbo.spDBR_Get_Dashboard_Styles
-AS
- 	 select dashboard_dashboard_style_id, dashboard_dashboard_style as Dashboard_Style from dashboard_dashboard_styles

@@ -1,6 +1,0 @@
-﻿CREATE TABLE [historyservice].[OPENJPA_SEQUENCE_TABLE] (
-    [ID]             TINYINT NOT NULL,
-    [SEQUENCE_VALUE] BIGINT  NULL,
-    PRIMARY KEY CLUSTERED ([ID] ASC)
-);
-

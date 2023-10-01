@@ -1,3 +1,0 @@
-﻿CREATE ROLE [R_EDH_WEB]
-    AUTHORIZATION [dbo];
-

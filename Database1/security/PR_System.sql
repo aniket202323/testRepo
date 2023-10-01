@@ -1,3 +1,0 @@
-﻿CREATE SCHEMA [PR_System]
-    AUTHORIZATION [dbo];
-

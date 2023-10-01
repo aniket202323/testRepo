@@ -1,3 +1,0 @@
-﻿CREATE USER [ProficyDBO] FOR LOGIN [ProficyDBO]
-    WITH DEFAULT_SCHEMA = [ProficyDBO];
-

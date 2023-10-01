@@ -1,2 +1,0 @@
-﻿CREATE USER [EU\CLUser.im] FOR LOGIN [EU\CLUser.im];
-

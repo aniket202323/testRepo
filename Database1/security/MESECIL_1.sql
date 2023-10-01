@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [MESECIL]
-    WITH PASSWORD = N'p8v{|}tyelk!deyas{vGqc0amsFT7_&#$!~<qygncWxt:xdu', SID = 0x9D0ED41966087643BE9C23298995C10C, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

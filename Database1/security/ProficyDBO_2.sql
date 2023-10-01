@@ -1,3 +1,0 @@
-﻿CREATE SCHEMA [ProficyDBO]
-    AUTHORIZATION [ProficyDBO];
-

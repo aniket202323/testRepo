@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [NA\pqualitynu.im]
-    FROM WINDOWS WITH DEFAULT_DATABASE = [GBDB], DEFAULT_LANGUAGE = [us_english];
-

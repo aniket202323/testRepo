@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [ProficyConnect]
-    WITH PASSWORD = N'fWcq4vpnz|vSkmlHgcUosrqqmsFT7_&#$!~<skcektdxepj.', SID = 0x3947E4DB7F679C4DBAC5398DFB22E049, DEFAULT_DATABASE = [GBDB], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

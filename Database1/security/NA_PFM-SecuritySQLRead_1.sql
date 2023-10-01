@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [NA\PFM-SecuritySQLRead]
-    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
-

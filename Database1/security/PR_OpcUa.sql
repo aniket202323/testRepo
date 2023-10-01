@@ -1,3 +1,0 @@
-﻿CREATE SCHEMA [PR_OpcUa]
-    AUTHORIZATION [dbo];
-

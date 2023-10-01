@@ -1,7 +1,0 @@
-﻿CREATE ROLE [R_CST_PROFICY]
-    AUTHORIZATION [dbo];
-
-
-GO
-ALTER ROLE [R_CST_PROFICY] ADD MEMBER [NA\pqualitynu.im];
-

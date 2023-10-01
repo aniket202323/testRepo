@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [NAE]
-    WITH PASSWORD = N'fc=vLpnzZ@|kl{Lgc_osr&qXmsFT7_&#$!~<qkceFtdNpddc', SID = 0x55F6946BA0757D489DF73EA1781332D3, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

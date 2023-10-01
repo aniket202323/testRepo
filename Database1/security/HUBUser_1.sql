@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [HUBUser]
-    WITH PASSWORD = N'ew4dtjSwpdpr!kewii&b5ZfomsFT7_&#$!~<avtf6ajx$3tt', SID = 0x7E4E77692193B241A76929CE5A6AFAE2, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-

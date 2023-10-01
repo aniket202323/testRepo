@@ -1,7 +1,0 @@
-﻿CREATE ROLE [R_FLSync]
-    AUTHORIZATION [dbo];
-
-
-GO
-ALTER ROLE [R_FLSync] ADD MEMBER [NA\flsdev.im];
-

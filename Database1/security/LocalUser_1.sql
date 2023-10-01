@@ -1,3 +1,0 @@
-﻿CREATE LOGIN [LocalUser]
-    WITH PASSWORD = N'pyv{|tyel0&kJdwyasHp{vqcmsFT7_&#$!~<aqygnxtaFxdr', SID = 0x8538BF64CE169F4E8E8526AE05C0B42B, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
-
