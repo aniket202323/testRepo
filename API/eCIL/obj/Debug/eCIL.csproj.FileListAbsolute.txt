@@ -1,0 +1,1541 @@
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.rsp
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.rsp
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.rsp
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.pdb
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.pdb
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\benchia.m\OneDrive - Procter and Gamble\Desktop\code projects\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authorization.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Routing.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authorization.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Routing.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\eCIL 4.1 SIT Version changes\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.rsp
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.rsp
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.rsp
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.pdb
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.pdb
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Manufacturing\Development\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-Deploy\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.rsp
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.rsp
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.rsp
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Manufacturing\Development\eCILSIT\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Users\NBK-CAMPANA\Documents\GitHub\FIT4Software\eCIL-4.0-eDefects\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csprojAssemblyReference.cache
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Arido Software\eCIL\eCIL-4.1\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\QRCoder.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.AssemblyReference.cache
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Arido Software\eCIL\eCIL_404\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csc.exe.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\csi.exe.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.AppContext.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Collections.Immutable.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Console.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Globalization.Calendars.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Http.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Net.Sockets.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.ValueTuple.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\vbc.exe.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\roslyn\VBCSCompiler.exe.config
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\QRCoder.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.AssemblyReference.cache
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Payal Project\eCIL\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\log4net.config
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\eCIL.dll.config
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\eCIL.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\eCIL.pdb
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Antlr3.Runtime.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\log4net.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.AspNet.WebApi.Extensions.Compression.Server.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Web.Infrastructure.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\QRCoder.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\STI.DataManager.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\STI.DatesManager.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Buffers.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.ComponentModel.Annotations.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Memory.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Extensions.Compression.Core.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\WebGrease.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\eCIL_DataLayer.pdb
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\ExcelDataReader.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\log4net.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Options.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Extensions.Primitives.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Logging.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Microsoft.Net.Http.Headers.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\Newtonsoft.Json.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Buffers.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Memory.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Numerics.Vectors.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Text.Encodings.Web.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Threading.Tasks.Extensions.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Net.Http.Formatting.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Helpers.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Http.WebHost.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Mvc.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Optimization.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.Razor.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Deployment.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\bin\System.Web.WebPages.Razor.xml
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.AssemblyReference.cache
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.ResolveComReference.cache
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CoreCompileInputs.cache
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.csproj.CopyComplete
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.dll
+C:\Aniket\PG\sp_review\Solution Code\Web Site\API\eCIL\obj\Debug\eCIL.pdb
