@@ -1,0 +1,1351 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>eCIL</name>
+    </assembly>
+    <members>
+        <member name="M:eCIL.Areas.HelpPage.ApiDescriptionExtensions.GetFriendlyId(System.Web.Http.Description.ApiDescription)">
+            <summary>
+            Generates an URI-friendly ID for the <see cref="T:System.Web.Http.Description.ApiDescription"/>. E.g. "Get-Values-id_name" instead of "GetValues/{id}?name={name}"
+            </summary>
+            <param name="description">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <returns>The ID as a string.</returns>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.HelpPageConfig">
+            <summary>
+            Use this class to customize the Help Page.
+            For example you can set a custom <see cref="T:System.Web.Http.Description.IDocumentationProvider"/> to supply the documentation
+            or you can provide the samples for the requests/responses.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.Controllers.HelpController">
+            <summary>
+            The controller that will handle requests for the help page.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetDocumentationProvider(System.Web.Http.HttpConfiguration,System.Web.Http.Description.IDocumentationProvider)">
+            <summary>
+            Sets the documentation provider for help page.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="documentationProvider">The documentation provider.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleObjects(System.Web.Http.HttpConfiguration,System.Collections.Generic.IDictionary{System.Type,System.Object})">
+            <summary>
+            Sets the objects that will be used by the formatters to produce sample requests/responses.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sampleObjects">The sample objects.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleRequest(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue,System.String,System.String)">
+            <summary>
+            Sets the sample request directly for the specified media type and action.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample request.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleRequest(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue,System.String,System.String,System.String[])">
+            <summary>
+            Sets the sample request directly for the specified media type and action with parameters.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample request.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleResponse(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue,System.String,System.String)">
+            <summary>
+            Sets the sample request directly for the specified media type of the action.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample response.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleResponse(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue,System.String,System.String,System.String[])">
+            <summary>
+            Sets the sample response directly for the specified media type of the action with specific parameters.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample response.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleForMediaType(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue)">
+            <summary>
+            Sets the sample directly for all actions with the specified media type.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample.</param>
+            <param name="mediaType">The media type.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetSampleForType(System.Web.Http.HttpConfiguration,System.Object,System.Net.Http.Headers.MediaTypeHeaderValue,System.Type)">
+            <summary>
+            Sets the sample directly for all actions with the specified type and media type.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sample">The sample.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="type">The parameter type or return type of an action.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetActualRequestType(System.Web.Http.HttpConfiguration,System.Type,System.String,System.String)">
+            <summary>
+            Specifies the actual type of <see cref="T:System.Net.Http.ObjectContent`1"/> passed to the <see cref="T:System.Net.Http.HttpRequestMessage"/> in an action.
+            The help page will use this information to produce more accurate request samples.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="type">The type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetActualRequestType(System.Web.Http.HttpConfiguration,System.Type,System.String,System.String,System.String[])">
+            <summary>
+            Specifies the actual type of <see cref="T:System.Net.Http.ObjectContent`1"/> passed to the <see cref="T:System.Net.Http.HttpRequestMessage"/> in an action.
+            The help page will use this information to produce more accurate request samples.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="type">The type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetActualResponseType(System.Web.Http.HttpConfiguration,System.Type,System.String,System.String)">
+            <summary>
+            Specifies the actual type of <see cref="T:System.Net.Http.ObjectContent`1"/> returned as part of the <see cref="T:System.Net.Http.HttpRequestMessage"/> in an action.
+            The help page will use this information to produce more accurate response samples.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="type">The type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetActualResponseType(System.Web.Http.HttpConfiguration,System.Type,System.String,System.String,System.String[])">
+            <summary>
+            Specifies the actual type of <see cref="T:System.Net.Http.ObjectContent`1"/> returned as part of the <see cref="T:System.Net.Http.HttpRequestMessage"/> in an action.
+            The help page will use this information to produce more accurate response samples.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="type">The type.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Gets the help page sample generator.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <returns>The help page sample generator.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.SetHelpPageSampleGenerator(System.Web.Http.HttpConfiguration,eCIL.Areas.HelpPage.HelpPageSampleGenerator)">
+            <summary>
+            Sets the help page sample generator.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="sampleGenerator">The help page sample generator.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.GetModelDescriptionGenerator(System.Web.Http.HttpConfiguration)">
+            <summary>
+            Gets the model description generator.
+            </summary>
+            <param name="config">The configuration.</param>
+            <returns>The <see cref="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator"/></returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageConfigurationExtensions.GetHelpPageApiModel(System.Web.Http.HttpConfiguration,System.String)">
+            <summary>
+            Gets the model that represents an API displayed on the help page. The model is initialized on the first call and cached for subsequent calls.
+            </summary>
+            <param name="config">The <see cref="T:System.Web.Http.HttpConfiguration"/>.</param>
+            <param name="apiDescriptionId">The <see cref="T:System.Web.Http.Description.ApiDescription"/> ID.</param>
+            <returns>
+            An <see cref="T:eCIL.Areas.HelpPage.Models.HelpPageApiModel"/>
+            </returns>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescription">
+            <summary>
+            Describes a type model.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescriptionGenerator">
+            <summary>
+            Generates model descriptions for given types.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelNameAttribute">
+            <summary>
+            Use this attribute to change the name of the <see cref="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescription"/> generated for a type.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.Models.HelpPageApiModel">
+            <summary>
+            The model that represents an API displayed on the help page.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.Models.HelpPageApiModel.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:eCIL.Areas.HelpPage.Models.HelpPageApiModel"/> class.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.ApiDescription">
+            <summary>
+            Gets or sets the <see cref="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.ApiDescription"/> that describes the API.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.UriParameters">
+            <summary>
+            Gets or sets the <see cref="T:eCIL.Areas.HelpPage.ModelDescriptions.ParameterDescription"/> collection that describes the URI parameters for the API.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.RequestDocumentation">
+            <summary>
+            Gets or sets the documentation for the request.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.RequestModelDescription">
+            <summary>
+            Gets or sets the <see cref="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescription"/> that describes the request body.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.RequestBodyParameters">
+            <summary>
+            Gets the request body parameter descriptions.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.ResourceDescription">
+            <summary>
+            Gets or sets the <see cref="T:eCIL.Areas.HelpPage.ModelDescriptions.ModelDescription"/> that describes the resource.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.ResourceProperties">
+            <summary>
+            Gets the resource property descriptions.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.SampleRequests">
+            <summary>
+            Gets the sample requests associated with the API.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.SampleResponses">
+            <summary>
+            Gets the sample responses associated with the API.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.Models.HelpPageApiModel.ErrorMessages">
+            <summary>
+            Gets the error messages associated with this model.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.HelpPageSampleGenerator">
+            <summary>
+            This class will generate the samples for the help page.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:eCIL.Areas.HelpPage.HelpPageSampleGenerator"/> class.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.ActualHttpMessageTypes">
+            <summary>
+            Gets CLR types that are used as the content of <see cref="T:System.Net.Http.HttpRequestMessage"/> or <see cref="T:System.Net.Http.HttpResponseMessage"/>.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples">
+            <summary>
+            Gets the objects that are used directly as samples for certain actions.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects">
+            <summary>
+            Gets the objects that are serialized as samples by the supported formatters.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.SampleObjectFactories">
+            <summary>
+            Gets factories for the objects that the supported formatters will serialize as samples. Processed in order,
+            stopping when the factory successfully returns a non-<see langref="null"/> object.
+            </summary>
+            <remarks>
+            Collection includes just <see cref="M:eCIL.Areas.HelpPage.ObjectGenerator.GenerateObject(System.Type)"/> initially. Use
+            <code>SampleObjectFactories.Insert(0, func)</code> to provide an override and
+            <code>SampleObjectFactories.Add(func)</code> to provide a fallback.</remarks>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.GetSampleRequests(System.Web.Http.Description.ApiDescription)">
+            <summary>
+            Gets the request body samples for a given <see cref="T:System.Web.Http.Description.ApiDescription"/>.
+            </summary>
+            <param name="api">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <returns>The samples keyed by media type.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.GetSampleResponses(System.Web.Http.Description.ApiDescription)">
+            <summary>
+            Gets the response body samples for a given <see cref="T:System.Web.Http.Description.ApiDescription"/>.
+            </summary>
+            <param name="api">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <returns>The samples keyed by media type.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.GetSample(System.Web.Http.Description.ApiDescription,eCIL.Areas.HelpPage.SampleDirection)">
+            <summary>
+            Gets the request or response body samples.
+            </summary>
+            <param name="api">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <param name="sampleDirection">The value indicating whether the sample is for a request or for a response.</param>
+            <returns>The samples keyed by media type.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.GetActionSample(System.String,System.String,System.Collections.Generic.IEnumerable{System.String},System.Type,System.Net.Http.Formatting.MediaTypeFormatter,System.Net.Http.Headers.MediaTypeHeaderValue,eCIL.Areas.HelpPage.SampleDirection)">
+            <summary>
+            Search for samples that are provided directly through <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.ActionSamples"/>.
+            </summary>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+            <param name="type">The CLR type.</param>
+            <param name="formatter">The formatter.</param>
+            <param name="mediaType">The media type.</param>
+            <param name="sampleDirection">The value indicating whether the sample is for a request or for a response.</param>
+            <returns>The sample that matches the parameters.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.GetSampleObject(System.Type)">
+            <summary>
+            Gets the sample object that will be serialized by the formatters. 
+            First, it will look at the <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.SampleObjects"/>. If no sample object is found, it will try to create
+            one using <see cref="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.DefaultSampleObjectFactory(eCIL.Areas.HelpPage.HelpPageSampleGenerator,System.Type)"/> (which wraps an <see cref="T:eCIL.Areas.HelpPage.ObjectGenerator"/>) and other
+            factories in <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleGenerator.SampleObjectFactories"/>.
+            </summary>
+            <param name="type">The type.</param>
+            <returns>The sample object.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.ResolveHttpRequestMessageType(System.Web.Http.Description.ApiDescription)">
+            <summary>
+            Resolves the actual type of <see cref="T:System.Net.Http.ObjectContent`1"/> passed to the <see cref="T:System.Net.Http.HttpRequestMessage"/> in an action.
+            </summary>
+            <param name="api">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <returns>The type.</returns>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.ResolveType(System.Web.Http.Description.ApiDescription,System.String,System.String,System.Collections.Generic.IEnumerable{System.String},eCIL.Areas.HelpPage.SampleDirection,System.Collections.ObjectModel.Collection{System.Net.Http.Formatting.MediaTypeFormatter}@)">
+            <summary>
+            Resolves the type of the action parameter or return value when <see cref="T:System.Net.Http.HttpRequestMessage"/> or <see cref="T:System.Net.Http.HttpResponseMessage"/> is used.
+            </summary>
+            <param name="api">The <see cref="T:System.Web.Http.Description.ApiDescription"/>.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+            <param name="sampleDirection">The value indicating whether the sample is for a request or a response.</param>
+            <param name="formatters">The formatters.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleGenerator.WriteSampleObjectUsingFormatter(System.Net.Http.Formatting.MediaTypeFormatter,System.Object,System.Type,System.Net.Http.Headers.MediaTypeHeaderValue)">
+            <summary>
+            Writes the sample object using formatter.
+            </summary>
+            <param name="formatter">The formatter.</param>
+            <param name="value">The value.</param>
+            <param name="type">The type.</param>
+            <param name="mediaType">Type of the media.</param>
+            <returns></returns>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.HelpPageSampleKey">
+            <summary>
+            This is used to identify the place where the sample should be applied.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleKey.#ctor(System.Net.Http.Headers.MediaTypeHeaderValue)">
+            <summary>
+            Creates a new <see cref="T:eCIL.Areas.HelpPage.HelpPageSampleKey"/> based on media type.
+            </summary>
+            <param name="mediaType">The media type.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleKey.#ctor(System.Net.Http.Headers.MediaTypeHeaderValue,System.Type)">
+            <summary>
+            Creates a new <see cref="T:eCIL.Areas.HelpPage.HelpPageSampleKey"/> based on media type and CLR type.
+            </summary>
+            <param name="mediaType">The media type.</param>
+            <param name="type">The CLR type.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleKey.#ctor(eCIL.Areas.HelpPage.SampleDirection,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            Creates a new <see cref="T:eCIL.Areas.HelpPage.HelpPageSampleKey"/> based on <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection"/>, controller name, action name and parameter names.
+            </summary>
+            <param name="sampleDirection">The <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection"/>.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.HelpPageSampleKey.#ctor(System.Net.Http.Headers.MediaTypeHeaderValue,eCIL.Areas.HelpPage.SampleDirection,System.String,System.String,System.Collections.Generic.IEnumerable{System.String})">
+            <summary>
+            Creates a new <see cref="T:eCIL.Areas.HelpPage.HelpPageSampleKey"/> based on media type, <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection"/>, controller name, action name and parameter names.
+            </summary>
+            <param name="mediaType">The media type.</param>
+            <param name="sampleDirection">The <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection"/>.</param>
+            <param name="controllerName">Name of the controller.</param>
+            <param name="actionName">Name of the action.</param>
+            <param name="parameterNames">The parameter names.</param>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleKey.ControllerName">
+            <summary>
+            Gets the name of the controller.
+            </summary>
+            <value>
+            The name of the controller.
+            </value>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleKey.ActionName">
+            <summary>
+            Gets the name of the action.
+            </summary>
+            <value>
+            The name of the action.
+            </value>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleKey.MediaType">
+            <summary>
+            Gets the media type.
+            </summary>
+            <value>
+            The media type.
+            </value>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleKey.ParameterNames">
+            <summary>
+            Gets the parameter names.
+            </summary>
+        </member>
+        <member name="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection">
+            <summary>
+            Gets the <see cref="P:eCIL.Areas.HelpPage.HelpPageSampleKey.SampleDirection"/>.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.ImageSample">
+            <summary>
+            This represents an image sample on the help page. There's a display template named ImageSample associated with this class.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.ImageSample.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:eCIL.Areas.HelpPage.ImageSample"/> class.
+            </summary>
+            <param name="src">The URL of an image.</param>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.InvalidSample">
+            <summary>
+            This represents an invalid sample on the help page. There's a display template named InvalidSample associated with this class.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.ObjectGenerator">
+            <summary>
+            This class will create an object of a given type and populate it with sample data.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.ObjectGenerator.GenerateObject(System.Type)">
+            <summary>
+            Generates an object for a given type. The type needs to be public, have a public default constructor and settable public properties/fields. Currently it supports the following types:
+            Simple types: <see cref="T:System.Int32"/>, <see cref="T:System.String"/>, <see cref="T:System.Enum"/>, <see cref="T:System.DateTime"/>, <see cref="T:System.Uri"/>, etc.
+            Complex types: POCO types.
+            Nullables: <see cref="T:System.Nullable`1"/>.
+            Arrays: arrays of simple types or complex types.
+            Key value pairs: <see cref="T:System.Collections.Generic.KeyValuePair`2"/>
+            Tuples: <see cref="T:System.Tuple`1"/>, <see cref="T:System.Tuple`2"/>, etc
+            Dictionaries: <see cref="T:System.Collections.Generic.IDictionary`2"/> or anything deriving from <see cref="T:System.Collections.Generic.IDictionary`2"/>.
+            Collections: <see cref="T:System.Collections.Generic.IList`1"/>, <see cref="T:System.Collections.Generic.IEnumerable`1"/>, <see cref="T:System.Collections.Generic.ICollection`1"/>, <see cref="T:System.Collections.IList"/>, <see cref="T:System.Collections.IEnumerable"/>, <see cref="T:System.Collections.ICollection"/> or anything deriving from <see cref="T:System.Collections.Generic.ICollection`1"/> or <see cref="T:System.Collections.IList"/>.
+            Queryables: <see cref="T:System.Linq.IQueryable"/>, <see cref="T:System.Linq.IQueryable`1"/>.
+            </summary>
+            <param name="type">The type.</param>
+            <returns>An object of the given type.</returns>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.SampleDirection">
+            <summary>
+            Indicates whether the sample is used for request or response
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.TextSample">
+            <summary>
+            This represents a preformatted text sample on the help page. There's a display template named TextSample associated with this class.
+            </summary>
+        </member>
+        <member name="T:eCIL.Areas.HelpPage.XmlDocumentationProvider">
+            <summary>
+            A custom <see cref="T:System.Web.Http.Description.IDocumentationProvider"/> that reads the API documentation from an XML documentation file.
+            </summary>
+        </member>
+        <member name="M:eCIL.Areas.HelpPage.XmlDocumentationProvider.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:eCIL.Areas.HelpPage.XmlDocumentationProvider"/> class.
+            </summary>
+            <param name="documentPath">The physical path to XML document.</param>
+        </member>
+        <member name="M:eCIL.Controllers.ApplicationController.Get">
+            <summary>
+            Get the site name - minimum access level 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ApplicationController.GetTimeFrames">
+            <summary>
+            Minimum access - 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.CustomViewController.Get(System.Int32,System.String)">
+            <summary>
+            Get a list of custom views for a user - Minimum access 1 (Guest)
+            </summary>
+            <param name="userId"></param>
+            <param name="screenDescription"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.CustomViewController.Put(eCIL_DataLayer.CustomView)">
+            <summary>
+            Save a custom view - Minimum access level 2(Operator)
+            </summary>
+            <param name="view"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.CustomViewController.SetSiteDefaultView(System.Int32,System.Int32)">
+            <summary>
+            Set site default view - Access level - 4 (Admin)
+            </summary>
+            <param name="UPId"></param>
+            <param name="LanguageId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.CustomViewController.SetUserDefaultView(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Set user default view - Minimum access level - 2 (Operator)
+            </summary>
+            <param name="UPId"></param>
+            <param name="UserId"></param>
+            <param name="LanguageId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.CustomViewController.Delete(System.Int32)">
+            <summary>
+            Delete a custom view - Minium access level - 2(Operator)
+            </summary>
+            <param name="UPId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetDefectTypes">
+            <summary>
+            Get defect types from eDH- Minimum access level - 2(Operator)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetDefectComponents">
+            <summary>
+            Get defect components from eDH- Minimum access level - 2(Operator)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetDefectHowFoundList">
+            <summary>
+            Get defectHowFound List from eDH- Minimum access level - 2(Operator)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetDefectPriorities">
+            <summary>
+            get defect priorities from eDH- Minimum access level - 2(Operator)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetInstanceOpenedDefects(System.Int32)">
+            <summary>
+            Get Instance Opened Defects- Minimum access level - 2(Operator)
+            </summary>
+            <param name="TestId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetTaskOpenedDefects(System.Int32)">
+            <summary>
+            Get Task Opened Defects- Minimum access level - 2(Operator)
+            </summary>
+            <param name="VarId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetDefectsHistory(System.Int32,System.Int32)">
+            <summary>
+            Get Defects History- Minimum access level - 2(Operator)
+            </summary>
+            <param name="VarId"></param>
+            <param name="NbrBack"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetFLDefects(System.String,System.String,System.String,System.String)">
+            <summary>
+            Get FL defects from eDH- Minimum access level - 2(Operator)
+            </summary>
+            <param name="Credentials"></param>
+            <param name="DepartmentId"></param>
+            <param name="ProdLineId"></param>
+            <param name="ProdUnitId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.AddDefect(eCIL_DataLayer.Defect.CILDefect)">
+            <summary>
+            Add a deffect to eDH - Minimum access level - 2(Operator)
+            </summary>
+            <param name="Defect"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetPlantModelByFLCode(System.String)">
+            <summary>
+            Get Plant Model by FLCode
+            </summary>
+            <param name="FLCode"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.DefectsController.GetEmagDefectDetails(System.Int32,System.String)">
+            <summary>
+            Get eMag Defect Details
+            </summary>
+            <param name="VarId"></param>
+            <param name="ColumnTime"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetDepartments(System.Int32)">
+            <summary>
+            Get departments - Minimum Access Level 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetProductionLines(System.Int32,System.String)">
+            <summary>
+            Get production lines  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="userId"></param>
+            <param name="deptId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetMasterUnitsForALine(System.String,System.Boolean)">
+            <summary>
+            get eCIL Master Units for a list of lines  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="lineId"></param>
+            <param name="firstItemBlank"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetSlaveForAMasterUnit(System.String,System.Boolean)">
+            <summary>
+            Get eCIL slave units for a list of  master units  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="masterId"></param>
+            <param name="firstItemBlank"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetProductionGroups(System.String,System.Boolean)">
+            <summary>
+            Get eCIL slave units for a list of  master units  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="slaveUnitId"></param>
+            <param name="firstItemBlank"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetPlantModelEditable(System.Int32,System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Get plantModel for editMode in TaskManagement.
+            If the user will not pass any plantModelLevel, the default value will be 4 to get the department, line, master unit, slave units and groups.
+            We don't care about the variables level because the user will not be able to edit anything for variables(tasks)
+            </summary>
+            <param name="userId"></param>
+            <param name="plId"></param>
+            <param name="plantModelLevel"> an integer and represents the lowerLevel for the data(Department = 0, Line = 1, MasterUnit = 2, SlaveUnit = 3, Group = 4, Variable = 5)</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetPlantModelByFl">
+            <summary>
+            Get the plant model by FL for task management  - Minimum Access Level 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetAllFl1">
+            <summary>
+            Get All Fl1 from th server  - Minimum Access Level 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetAllFL2ForFL1(System.String)">
+            <summary>
+            Get All Fl2 for a list of FL1  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="Fl1"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetAllFL3ForFL2(System.String)">
+            <summary>
+            Get All Fl3 for a list of FL2  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="Fl2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.GetAllFL4ForFL3(System.String)">
+            <summary>
+            Get All Fl4 for a list of FL3  - Minimum Access Level 1(Guest)
+            </summary>
+            <param name="Fl3"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.UpdateProdLineUDP(System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Update FL1 or eCIL_LineVersion in Task Management - Access Level : Administrator
+            </summary>
+            <param name="lineDesc">Prod Line Description</param>
+            <param name="udpName"> "FL1" or "eCIL_LineVersion"</param>
+            <param name="udpValue">if user wants to update the FL1 or eCIL_LineVersion,he needs provide a value</param>
+            <param name="toDelete">true - UDP will be deleted, false - udp will be updated</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.UpdateProdUnitUDP(System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Update FL2, FL3 or eCIL_ModuleFeatureVersion in Task Management - Access Level : Administrator
+            </summary>
+            <param name="lineDesc"> Prod Line Description</param>
+            <param name="unitDesc"> Master Unit Description or Slave Unit Description</param>
+            <param name="udpName">"FL2" or "FL3" or "eCIL_ModuleFeatureVersion"</param>
+            <param name="udpValue">if user wants to update the FL2, FL3 or eCIL_ModuleFeatureVersion, he needs provide a value</param>
+            <param name="toDelete"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.UpdateGroupsUDP(System.String,System.String,System.String,System.String,System.String,System.Boolean)">
+            <summary>
+            Update zFL4 in Task Management - Access Level : Administrator
+            </summary>
+            <param name="lineDesc">Prod Line Description</param>
+            <param name="unitDesc">Unit Description</param>
+            <param name="groupDesc"> Var Group Description</param>
+            <param name="udpName">"FL4"</param>
+            <param name="udpValue">if user wants to update the FL4, he needs provide a value</param>
+            <param name="toDelete"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.AddModule(System.Int32,eCIL_DataLayer.PlantModel.PlantModelData)">
+            <summary>
+            Add new Module - Access Level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="plantModelData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.PlantModelController.AddProductionGroup(System.Int32,eCIL_DataLayer.PlantModel.PlantModelData)">
+            <summary>
+            Add new Production Group -  Access Level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="plantModelData"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetComplianceReport(System.Int32,System.String,System.String,System.Int32,System.String,System.String,System.Int32,System.Boolean,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Get Compliance Report data - Minim access level 1 (Guest)
+            </summary>
+            <param name="granularity">1=Team, 2=Route, 3=Site, 4=Department, 5=Line, 6=Master, 7=Modules, 8=Tasks</param>
+            <param name="topLevelId">The Id from which the report was initiated, before drill-down</param>
+            <param name="subLevel">The id of the current level being drilled-down</param>
+            <param name="startTime">The beginning period of the report</param>
+            <param name="endTime">The end period of the report</param>
+            <param name="userId"></param>
+            <param name="routeIds">The list of IDs representing routes to include in the report</param>
+            <param name="teamIds">The list of IDs representing teams to include in the report</param>
+            <param name="teamDetails">The level of details we want for Team (1=Summary  2=Routes  4=Plant Model)</param>
+            <param name="qFactorOnly">Specify if we only want QFactor Tasks in the report.</param>
+            <returns>List of COmpliance Report objects representing summary for the current level</returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetSpecs(System.Int32,System.String,System.String,System.String)">
+            <summary>
+             Get the list of specifications used to color the background of the cells in the Compliance Report - Minimum access level 1 (Guest)
+             </summary>
+             <param name="granularity">1=Team, 2=Route, 3=Site, 4=Department, 5=Line, 6=Master, 7=Modules, 8=Tasks</param>
+             <param name="ids">The list of IDs represented in the current level</param>
+             <param name="startDate">The beginning period of the report</param>
+             <param name="endDate">The ending period of the report</param>
+             <returns>DataTable that hold row(s) representing specifications for the current level</returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetComplianceReportPrint(System.Int32,System.String,System.String,System.Int32,System.String,System.String,System.Int32,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+            Get Compliance Report data Print - Minim access level 1 (Guest)
+            </summary>
+            <param name="granularity">1=Team, 2=Route, 3=Site, 4=Department, 5=Line, 6=Master, 7=Modules, 8=Tasks</param>
+            <param name="topLevelId">The Id from which the report was initiated, before drill-down</param>
+            <param name="subLevel">The id of the current level being drilled-down</param>
+            <param name="startTime">The beginning period of the report</param>
+            <param name="endTime">The end period of the report</param>
+            <param name="userId"></param>
+            <param name="routeIds">The list of IDs representing routes to include in the report</param>
+            <param name="teamIds">The list of IDs representing teams to include in the report</param>
+            <param name="teamDetails">The level of details we want for Team (1=Summary  2=Routes  4=Plant Model)</param>
+            <param name="qFactorOnly">Specify if we only want QFactor Tasks in the report.</param>
+            <returns>List of COmpliance Report objects representing summary for the current level for printing(include the entire plantModel)</returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetEmagReportData(System.Int32,System.String)">
+            <summary>
+            Get Emag report data - Minimum access level - 1(Guest)
+            </summary>
+            <param name="puId"></param>
+            <param name="endDate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetEmagReportDowntimes(System.Int32,System.String)">
+            <summary>
+            Get Emag report downtimes - Minimum access level 1 (Guest)
+            </summary>
+            <param name="puId"></param>
+            <param name="endDate"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetDowntimeDetails(System.Int32,System.String,System.String,System.Int32)">
+            <summary>
+            Get downtime details - Minimum access level 1(Guest)
+            </summary>
+            <param name="puId"></param>
+            <param name="eventReasonName"></param>
+            <param name="endDate"></param>
+            <param name="dayOffset">Index for column where the user click (from 1 to 30)</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetTrendReport(System.Int32,System.String,System.Int32)">
+            <summary>
+            Get Trend Report for a taskId - Minimum access level 1
+            </summary>
+            <param name="varId"></param>
+            <param name="endDate"></param>
+            <param name="languageId">Optional parameter</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetTasksPlanningData(System.Int32,System.String,System.String,System.Nullable{System.Int32},System.String,System.String,System.Nullable{System.Int32},System.String,System.String,System.String,System.Int32,System.Int32)">
+            <summary>
+            Get data for task planning report - Minimum access level 1 (Guest)
+            </summary>
+            <param name="Granularity">1=Team, 2=Route, 3=Site, 4=Department, 5=Line, 6=Master, 7=Modules, 8=Tasks</param>
+            <param name="TopLevelId">The Id from which the report was initiated, before drill-down</param>
+            <param name="SubLevel">The id of the current level being drilled-down</param>
+            <param name="StartTime">The beginning period of the report</param>
+            <param name="EndTime">The end period of the report</param>
+            <param name="UserId">User asking for the report</param>
+            <param name="RouteIds">The list of IDs representing routes to include in the report</param>
+            <param name="TeamIds">The list of IDs representing teams to include in the report</param>
+            <param name="TeamDetails">The level of details we want for Team (1=Summary  2=Routes  4=Plant Model)</param>
+            <param name="Departments"></param>
+            <param name="Lines"></param>
+            <param name="Units"></param>
+            <returns>List of Tasks Planning Report </returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetTasksPlanningDetail(System.Int32,System.Int32,System.String,System.String,System.Nullable{System.Int32},System.String,System.String,System.Nullable{System.Int32},System.Int32,System.Int32)">
+            <summary>
+            Get detail for task planning report - Minimum access level 1 (Guest)
+            </summary>
+            <param name="VarId"></param>
+            <param name="Granularity">1=Team, 2=Route, 3=Site, 4=Department, 5=Line, 6=Master, 7=Modules, 8=Tasks</param>
+            <param name="TopLevelId">The Id from which the report was initiated, before drill-down</param>
+            <param name="SubLevel">The id of the current level being drilled-down</param>
+            <param name="StartTime">The beginning period of the report</param>
+            <param name="EndTime">The end period of the report</param>
+            <param name="UserId">User asking for the report</param>
+            <param name="RouteIds">The list of IDs representing routes to include in the report</param>
+            <param name="TeamIds">The list of IDs representing teams to include in the report</param>
+            <param name="TeamDetails">The level of details we want for Team (1=Summary  2=Routes  4=Plant Model)</param>
+            <returns>List of Tasks Planning Report </returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetMultipleAssignmentsData(System.String)">
+            <summary>
+            Get data for multiple assignments report - Minimum access level 1 (Guest)
+            </summary>
+            <param name="LinesList">Prod lines list</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.GetUnassignedTasksData(System.String,System.Boolean,System.Boolean)">
+            <summary>
+            Get data for unassigned task - Minimum access level 1 (Guest)
+            </summary>
+            <param name="PLIds">Prod lines list</param>
+            <param name="RouteFlag">true or false</param>
+            <param name="TeamFlag">true or false</param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.ReportController.Get(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Get Data for task scheduling errors - Minimum access level 1(Guest)
+            </summary>
+            <param name="deptIds"></param>
+            <param name="lineIds"></param>
+            <param name="masterIds"></param>
+            <param name="slaveIds"></param>
+            <param name="groupIds"></param>
+            <param name="variableIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.Get">
+            <summary>
+            Get all routes  - Minimum access level 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.Get(System.Int32)">
+            <summary>
+            Get all routes for a user  - Minimum access level 1(Guest)
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetRouteTeams(System.Int32)">
+            <summary>
+            get a specific route  - Minimum access level 3(Line Manager)
+            </summary>
+            <param name="RouteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetRouteTasks(System.Int32,System.String)">
+            <summary>
+            get tasks for a route - Minimum access level 3(Line Manager)
+            </summary>
+            <param name="RouteId"></param>
+            <param name="LineIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetRoutesSummary">
+            <summary>
+            Get routes summary  - Minimum access level 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetReportRouteTeams(System.Int32)">
+            <summary>
+            Get Route Teams - Minimum access level 3(Line Manager)
+            </summary>
+            <param name="RouteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetReportRouteTasks(System.Int32)">
+            <summary>
+            Get Route Tasks - Minimum access level 3(Line Manager)
+            </summary>
+            <param name="RouteId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetReportAllRouteTeams">
+            <summary>
+            Get all route teams - Minimum access level 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.GetReportAllRouteTasks">
+            <summary>
+            Get all Route Tasks - Minimum access level 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.Post(eCIL_DataLayer.Route)">
+            <summary>
+            Add a new route - Access level 4(Admin)
+            </summary>
+            <param name="Route"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.Put(eCIL_DataLayer.Route)">
+            <summary>
+            Save a route - Access level 4 (Admin)
+            </summary>
+            <param name="Route"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.Delete(System.String)">
+            <summary>
+            Delete a route - Access level - 4 (Admin)
+            </summary>
+            <param name="RouteIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.UpdateRouteTeamsAssociations(eCIL_DataLayer.Route.RouteAssociations)">
+            <summary>
+            Assign teams for a route - Access level 4 (Admin)
+            </summary>
+            <param name="Route"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.RoutesController.UpdateRouteTasksAssociations(eCIL_DataLayer.Route.RouteAssociations)">
+            <summary>
+            Assig Tasks to a Route - Acess level 4(Admin)
+            </summary>
+            <param name="Route"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.Get(System.String,System.String,System.String)">
+            <summary>
+            Get all tasks for a plant model - Minimum access level = 1(Guest)
+            </summary>
+            <param name="routes"></param>
+            <param name="taskType"></param>
+            <param name="taskResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetTeamTasks(System.String,System.String,System.String)">
+            <summary>
+            Get tasks for a team - Minimum access level = 1(Guest)
+            </summary>
+            <param name="teams"></param>
+            <param name="taskType"></param>
+            <param name="taskResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetProductionLineTasks(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Get Tasks for a production line - Minimul access level - 1(Guest)
+            </summary>
+            <param name="lineId"></param>
+            <param name="masterId"></param>
+            <param name="slavesId"></param>
+            <param name="taskType"></param>
+            <param name="taskResult"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetTaskDetails(System.Int32)">
+            <summary>
+            Get task Details based on testId
+            </summary>
+            <param name="testId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetUserResultPrompts(System.Int32)">
+            <summary>
+            Get User Results Prompts for tasks - Minimum access level 1(Guest)
+            </summary>
+            <param name="UserLanguageId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetServerResultPrompts">
+            <summary>
+            Get Server Results Prompts for tasks - Minimum access level 1(Guest)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.Put(System.Collections.Generic.List{eCIL_DataLayer.Task})">
+            <summary>
+            Save a list of tasks - Minium access level - 2(Operator)
+            </summary>
+            <param name="tasks"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetLineTasksForPlantModel(System.String)">
+            <summary>
+            Get Line Taks based on Plant Model - Minimum access level 3(Line Manager)
+            </summary>
+            <param name="LineIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetPPAVersionAspected">
+            <summary>
+            Get PPA Version Accepted - Minimum access level 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetTasksByPlantModel(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Get all tasks by Plant Model for Task Management - Minium access level - 3 (Line Manager)
+            </summary>
+            <param name="deptIds"></param>
+            <param name="lineIds"></param>
+            <param name="masterIds"></param>
+            <param name="slaveIds"></param>
+            <param name="groupIds"></param>
+            <param name="variableIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.GetTasksByFlList(System.String,System.String)">
+            <summary>
+            Return Tasks list by Functional location on Task Management - Min access level - 3(Line Manager)
+            </summary>
+            <param name="FlList"></param>
+            <param name="VarList"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.AddTask(System.Int32,eCIL_DataLayer.TaskEdit)">
+            <summary>
+            Add a single task - Access level - 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.UpdateTask(System.Int32,eCIL_DataLayer.TaskEdit)">
+            <summary>
+            Update a task - access level 4 (Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="task"></param>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.Delete(System.Int32,eCIL_DataLayer.TaskEdit)">
+            <summary>
+            Obsolete a single task - Access level - 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="task"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TasksController.SaveMgmtTasks(System.Int32,System.Collections.Generic.List{eCIL_DataLayer.TaskEdit})">
+            <summary>
+            Save Management Tasks - Access Level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="tasks"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.Get">
+            <summary>
+            Get all teams - minimum access level - 3(Line Manager)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.Get(System.Int32)">
+            <summary>
+            Get teams for a user - Minimum access level 1(guest)
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetTeamUsers(System.Int32)">
+            <summary>
+            Get users for a team -Minimum acces level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetTeamTasks(System.Int32)">
+            <summary>
+            Get tasks for a team - Minimum access level - 3 (Line Manager)
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetTeamRoutes(System.Int32)">
+            <summary>
+            Get routes for a team - Minimum access level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetTeamsSummary">
+            <summary>
+            Get team summary - Minimum access level 3
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportTeamRoutes(System.Int32)">
+            <summary>
+            Get routes for a team - Minimum access level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportAllTeamRoutes">
+            <summary>
+            Get Teams Routes - Minimum access level 3
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportAllTeamUsers">
+            <summary>
+            Get Teams Users - Minimum access level 3
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportAllTeamTasks">
+            <summary>
+            Get teams tasks - Minimum access level 3
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportTeamTasks(System.Int32)">
+            <summary>
+            Get tasks for a team - Minimum access level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportTeamUsers(System.Int32)">
+            <summary>
+            Get users for a team - Minimum access level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetReportTeamCrews(System.Int32)">
+            <summary>
+            Get Crews for a team - Minimum access level 3
+            </summary>
+            <param name="TeamId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.GetAllCrews(System.Int32)">
+            <summary>
+            Get all crews - Minimum access level 3
+            </summary>
+            <param name="LineId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.Post(eCIL_DataLayer.Team)">
+            <summary>
+            Create a team - Access level - 4(Admin) 
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.Put(eCIL_DataLayer.Team)">
+            <summary>
+            Save a team - Acess level 4(Admin)
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.Delete(System.String)">
+            <summary>
+            Detele a list of teams - Access level 4 (Admin)
+            </summary>
+            <param name="TeamIds"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.UpdateTeamRoutesAssociations(eCIL_DataLayer.Team.TeamsAssociations)">
+            <summary>
+            Assign routes to a team - Access level 4 (Admin)
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.UpdateTeamUsersAssociations(eCIL_DataLayer.Team.TeamsAssociations)">
+            <summary>
+            Assign Users to a team - Access level 4 (Admin)
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.UpdateTeamTasksAssociations(eCIL_DataLayer.Team.TeamsAssociations)">
+            <summary>
+            Assign tasks for a team - Access level 4 (Admin)
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.TeamsController.UpdateTeamCrewRoutes(eCIL_DataLayer.Team.TeamCrewRoutes)">
+            <summary>
+            Assign crews for a team - Access level 4(Admin)
+            </summary>
+            <param name="Team"></param>
+            <returns></returns>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:eCIL.Controllers.UserController.Authenticate(eCIL_DataLayer.User)" -->
+        <member name="M:eCIL.Controllers.VersionManagementController.ReadDataFromExcelFile(System.Int32,System.String,System.String)">
+            <summary>
+            GET data from the raw data file - Access level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.ReadandValidateRawDatafile(System.Int32,System.String,System.String,System.Boolean,System.Boolean)">
+            <summary>
+            Validation step - Access Level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <param name="linelevelcomparision"></param>
+            <param name="modulelevelcomparision"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.ReadProficyData(System.String,System.Boolean,System.Boolean,System.String,System.String)">
+            <summary>
+            Get proficy data from database - Access level 4(Admin)
+            </summary>
+            <param name="lineLevelComparision"></param>
+            <param name="moduleLeveComparision"></param>
+            <param name="plId"></param>
+            <param name="puId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.ValidateProficyPlantModelConfiguration(System.String,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Step 4 - ValidatePlantModel - Access Level - 4(Admin)
+            </summary>
+            <param name="linelevelcomparision"></param>
+            <param name="modulelevelcomparision"></param>
+            <param name="lineId"></param>
+            <param name="slaveUnitId"></param>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.AddNewModulestoPlantModelDataSource(System.String,System.Boolean,System.Boolean,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            After step 4 - AddNewModulestoPlantModelDataSource - Access Level - 4(Admin)
+            </summary>
+            <param name="linelevelcomparision"></param>
+            <param name="modulelevelcomparision"></param>
+            <param name="lineId"></param>
+            <param name="slaveUnitId"></param>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.CompareRawDataAndProficy(System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32)">
+            <summary>
+            Step 5 - Compare - Access Level - 4(Admin)
+            </summary>
+            <param name="moduleLevelComparision"></param>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <param name="plId"></param>
+            <param name="puId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.TaskToUpdate(System.String,System.Int32,System.String,System.Boolean,System.Boolean,System.Int32,System.Int32)">
+            <summary>
+             Step 5 - Compare - Access level - 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <param name="lineLevelComparision"></param>
+            <param name="moduleLevelComparision"></param>
+            <param name="plId"></param>
+            <param name="puId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.GetLineVersionStatistics(System.String,System.Int32,System.String,System.Boolean,System.Int32)">
+            <summary>
+            Step 5 - GetLineVersionStatistics - Access Level - 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <param name="linelevelcomparision"></param>
+            <param name="lineId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.GetModuleVersionStatistics(System.Int32,System.String,System.String,System.Boolean,System.Int32)">
+            <summary>
+            GetModuleVersionStatistics - Access Level - 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <param name="sheet"></param>
+            <param name="modulelevelcomparision"></param>
+            <param name="puId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Controllers.VersionManagementController.Upload(System.Int32)">
+            <summary>
+            Upload excel file - Access Level 4(Admin)
+            </summary>
+            <param name="userId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:eCIL.Helper.UserRepository.CheckJwtToken(System.String)">
+            <summary>
+            Check the token
+            </summary>
+            <param name="jwtToken"></param>
+            <returns>-2 - token is expired;  -1 token is not a jwt token;  > 0 global access user for the user</returns>
+        </member>
+    </members>
+</doc>

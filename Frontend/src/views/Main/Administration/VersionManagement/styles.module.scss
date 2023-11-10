@@ -1,0 +1,209 @@
+.container {
+  width: 100%;
+  box-sizing: border-box;
+  color: #000000db;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+}
+
+.card {
+  background-color: white;
+  border: 1px solid #1a367e20;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 4px 4px 2px -1px #eaeaea;
+}
+
+.title {
+  margin: 30px 0px !important;
+  color: #000;
+}
+.subTitle {
+  font-size: 13px;
+}
+
+.taskContainer {
+  display: flex;
+  flex-direction: row;
+  flex: 1 1 auto;
+  height: calc(100% - 65px);
+  .taskContainerTreeList {
+    width: 30%;
+    margin: 30px;
+  }
+  .taskContainerDataGrid {
+    width: 70%;
+  }
+}
+
+.autoHeight {
+  flex: 1 1 auto;
+  overflow: auto;
+}
+
+.hide {
+  display: none;
+}
+
+.multiSelectionGroup {
+  display: flex;
+  flex-direction: row;
+}
+
+.selectBox {
+  max-height: 175px;
+  min-height: 150px;
+  max-width: calc((100% / 3) - 10px);
+  font-size: 12px;
+  margin: 5px;
+}
+
+.dataGrids {
+  height: auto;
+}
+
+.dataGridTaskUpdate {
+  display: flex;
+  flex-direction: column;
+}
+
+.versionInformation {
+  display: flex;
+}
+.versionDataGrids {
+  width: 50%;
+}
+
+.divButtons {
+  float: right;
+}
+.nextButton {
+  width: 160px;
+  position: relative;
+}
+
+.fileUpload {
+  border: 1px solid #ccc;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.selectBox {
+  color: #000;
+}
+
+#accordion h1 {
+  font-size: 20px;
+}
+
+#accordion h1,
+#accordion p {
+  margin: 0;
+}
+
+.dx-theme-material
+  #accordion
+  .dx-accordion-item-opened
+  .dx-accordion-item-title {
+  display: flex;
+}
+
+.dx-theme-material #accordion .dx-accordion-item-opened h1 {
+  align-self: center;
+}
+
+.options,
+.selected-data {
+  padding: 20px;
+  background-color: rgba(191, 191, 191, 0.15);
+  margin-top: 20px;
+}
+
+.selected-data {
+  position: relative;
+  height: 36px;
+}
+
+.selected-data > .caption {
+  position: relative;
+  top: 5px;
+  margin-right: 10px;
+  font-weight: bold;
+  font-size: 115%;
+}
+
+.selected-data > .dx-widget {
+  position: absolute;
+  left: 140px;
+  right: 20px;
+  top: 20px;
+}
+
+.options > .caption {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.option {
+  margin-top: 10px;
+}
+
+.compareBtn {
+  float: right;
+}
+.versionLevel {
+  color: #535353;
+  margin: 5px 5px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  label {
+    font-size: 13px;
+    margin-right: 5px;
+  }
+  div {
+    margin-right: -5px;
+  }
+}
+
+.masterAssignmentMessage {
+  color: #5f5f5f;
+  background: #17a2b82e;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  font-size: 11px;
+  margin-right: 5px;
+  margin-bottom: 20px;
+  img {
+    position: absolute;
+    height: 18px;
+    width: 18px;
+    transform: scale(1.25);
+  }
+  label {
+    margin-left: 40px;
+  }
+}
+
+.divAssignPopup {
+  display: flex;
+  flex-direction: row;
+}
+
+.selectBoxMasteAssignmentPopup {
+  width: 200px;
+  min-height: 140px;
+}
+
+.btnMasterUnitAssign {
+  height: 30px;
+  margin-top: 10%;
+  display: flex;
+  height: fit-content;
+}

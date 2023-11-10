@@ -1,0 +1,672 @@
+.container {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  color: #000000db;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: auto;
+  position: inherit !important;
+}
+
+.contentGrid {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.contentTails {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  padding: 5px;
+}
+
+.containerDefects {
+  position: relative;
+
+  .butttonCommand {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+
+    .buttons {
+      height: 36px;
+      width: 36px;
+      border-radius: 5px;
+      line-height: 0;
+      margin-left: 0px;
+      margin-right: 5px;
+      &:active,
+      &:focus,
+      &:hover {
+        background: #f5f5f5;
+        border-color: #dddddd;
+        box-shadow: none;
+      }
+    }
+  }
+
+  > .flexRow {
+    display: flex;
+    flex-direction: row;
+
+    > .boxRight {
+      width: 75%;
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      > form {
+        width: 100%;
+      }
+    }
+
+    > .boxLeft {
+      width: 25%;
+    }
+
+    > .boxLeft,
+    > .boxRight {
+      font-size: 12px;
+      margin: 0 5px;
+      > .title {
+        position: relative;
+        font-weight: 600;
+        color: var(--gray);
+        font-size: 0.9rem;
+        display: flex;
+        flex: 1 1 100%;
+        margin: 4px 0;
+        text-transform: uppercase;
+      }
+
+      > .taksInfo {
+        display: flex;
+        flex-direction: column;
+        .taskInfoItem {
+          width: 100%;
+          margin: 5px 0;
+          display: flex;
+          flex-direction: row;
+          align-items: flex-start;
+          :first-child {
+            width: 125px;
+            min-width: 125px;
+            display: inline-block;
+            color: var(--primary);
+          }
+          :last-child {
+            flex: 1 1 auto;
+          }
+        }
+      }
+    }
+  }
+
+  .detailGrid {
+    margin: 20px 0;
+  }
+
+  .numericInput {
+    width: 100px;
+  }
+
+  .refreshDefectHistoryButton,
+  .refreshFLDefectsButton {
+    height: 30px;
+    border-radius: 5px;
+    &:active,
+    &:focus,
+    &:hover {
+      color: black;
+      background: #f5f5f5;
+      border-color: #dddddd;
+    }
+    img {
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  .refreshDefectHistoryButton {
+    margin-left: 0;
+  }
+
+  .refreshFLDefectsButton {
+    float: right;
+    display: flex;
+  }
+
+  .divButtonRefresh {
+    width: 100% !important;
+  }
+}
+
+.commentDialog {
+  width: 350px;
+}
+
+.commentDialogMobility {
+  width: 250px;
+}
+
+.moveDialog {
+  > div:first-child {
+    margin: 5px;
+  }
+  h5 {
+    font-size: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin: 2px;
+    padding-bottom: 5px;
+
+    label {
+      font-weight: normal;
+
+      &:last-child {
+        display: none;
+      }
+    }
+  }
+}
+
+.saveButton {
+  width: 150px;
+  height: 35px;
+  margin: 0;
+  position: relative;
+  left: calc(50% - 75px);
+}
+
+.multiSelectionGroup {
+  display: flex;
+  flex-direction: row;
+}
+
+.selectBox {
+  max-height: 190px;
+  min-height: 190px;
+  max-width: calc((100% / 3) - 10px);
+  font-size: 12px;
+  margin: 5px;
+}
+
+.selectBoxOne {
+  max-height: 190px;
+  min-height: 190px;
+  font-size: 12px;
+  margin: 5px;
+  width: 300px;
+  max-width: 300px;
+}
+
+.breadcrumbButton {
+  font-size: 22px;
+  padding: 12px 16px !important;
+  border: none;
+  background: var(--primary-alpha);
+  border-radius: 0;
+  color: #c5c5c5;
+  margin: 0.5px;
+  > i {
+    color: #fff;
+  }
+}
+
+.fields {
+  max-height: 400px;
+}
+.itemCheck {
+  height: 20px;
+  .container {
+    height: 15px;
+  }
+}
+
+.Ok {
+  background-color: #1bff00 !important;
+  position: relative;
+  input[type="text"] {
+    color: black !important;
+  }
+}
+.Defect {
+  background-color: #e82015 !important;
+  position: relative;
+  input[type="text"] {
+    color: white !important;
+  }
+}
+.Late {
+  background-color: #ffff00 !important;
+  position: relative;
+  input[type="text"] {
+    color: black !important;
+  }
+}
+.Pending {
+  background-color: #3030ff !important;
+  position: relative;
+  input[type="text"] {
+    color: white !important;
+  }
+}
+.Missed {
+  background-color: #30ffd9 !important;
+  position: relative;
+  input[type="text"] {
+    color: rgb(4, 4, 4) !important;
+  }
+}
+
+.isDefectLookedMessage {
+  display: flex;
+  color: #5f5f5f;
+  background: #17a2b82e;
+  padding: 12px;
+  border-radius: 5px;
+  width: fit-content;
+  flex-direction: row;
+  position: relative;
+  font-size: 11px;
+  margin-right: 5px;
+  height: 12px;
+  margin-top: 5px;
+  img {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    transform: scale(1.25);
+  }
+  label {
+    margin-left: 10px;
+  }
+}
+
+.eDhNotAccessMessage {
+  display: flex;
+  width: 340px;
+  float: right;
+  color: #5f5f5f;
+  background: #d8e5eb;
+  padding: 12px;
+  border-radius: 5px;
+  width: fit-content;
+  flex-direction: row;
+  position: relative;
+  font-size: 11px;
+  margin-right: 5px;
+  height: 12px;
+  margin-top: 5px;
+  img {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    transform: scale(1.25);
+  }
+  label {
+    margin-left: 10px;
+  }
+}
+
+.qrCodedNotFound {
+  color: #5f5f5f;
+  background: #17a2b82e;
+  padding: 12px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  font-size: 11px;
+  margin-right: 5px;
+  height: 12px;
+  margin-top: 5px;
+
+  label {
+    margin-left: 15px;
+  }
+}
+
+.infoDetailGrid {
+  display: none;
+}
+
+// # iPad View
+
+.dgrListItem {
+  height: 70px !important;
+}
+
+.sumTasksContainer {
+  height: 22px;
+  width: 22px;
+  background: var(--primary-light);
+  border: 1px solid var(--primary-light);
+  border-radius: 15px;
+  bottom: 15px;
+  margin-left: -16px;
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  > span {
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    color: #fff;
+    margin-left: -1px;
+  }
+}
+
+.headerFiltersContainer {
+  position: fixed;
+  z-index: 1;
+  width: -webkit-fill-available;
+  margin-top: -30px;
+  .headerFilters {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    margin: 5px -5px;
+    background-color: white;
+  }
+}
+
+.taskItemContainer {
+  padding: 15px;
+  border: 1px #ccc solid;
+  .taskHeader {
+    margin: -10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    white-space: pre-wrap;
+    height: 50px;
+  }
+  .taskHeaderExpanded {
+    margin: -10px 0;
+    align-items: center;
+    justify-content: space-between;
+    white-space: pre-wrap;
+  }
+  .headerDropdown {
+    width: 90px !important;
+    height: 30px;
+    display: -webkit-inline-box;
+  }
+
+  .taskDescription {
+    flex-direction: row;
+    display: flex;
+    margin-top: 1rem;
+    min-height: 80px;
+    width: 90%;
+
+    .leftDiv {
+      width: 33%;
+    }
+    .centerDiv {
+      width: 33%;
+    }
+    .rightDiv {
+      width: 33%;
+    }
+  }
+}
+
+.btnCardsFilters {
+  min-height: 30px;
+  min-width: 30px;
+}
+
+.filterButtonsLeft {
+  display: flex;
+  align-items: center;
+  float: right;
+}
+
+.btnCardsFiltersLeft {
+  line-height: 0;
+  height: 30px;
+  width: 35px;
+}
+
+.btnCardsFiltersRight {
+  line-height: 0;
+  height: 30px;
+  width: 35px;
+  > img {
+    width: 16px;
+  }
+}
+
+.btnItemTaskButton {
+  line-height: 2;
+  height: 30px;
+  width: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 1 !important;
+  > img {
+    width: 23px;
+  }
+}
+
+.sboDefects {
+  width: 90px !important;
+}
+
+.bottomButtonsContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  margin: -10px 0;
+}
+
+.columnsContainer {
+  width: 100%;
+  font-size: 11px;
+  white-space: pre-wrap;
+  .columnLeft {
+    width: 34%;
+    float: left;
+    white-space: nowrap;
+    overflow-x: clip;
+  }
+  .columnCenter {
+    width: 33%;
+    display: inline-block;
+    white-space: pre-wrap;
+    overflow-x: clip;
+  }
+  .columnRight {
+    width: 33%;
+    float: right;
+    white-space: nowrap;
+    overflow-x: clip;
+    .Target {
+      color: green;
+      font-weight: bold;
+    }
+    .U_Reject {
+      color: red;
+    }
+    .L_Reject {
+      color: red;
+    }
+  }
+}
+
+.chkMainFields {
+  top: -1px;
+  position: relative;
+  > div {
+    font-size: 12px;
+    > span:first-child {
+      width: 18px;
+      height: 18px;
+    }
+  }
+}
+
+.btnCloseInfoPopup {
+  top: 10px;
+  right: 10px;
+  min-width: 30px !important;
+  position: fixed;
+  border: none !important;
+}
+
+.back-to-top {
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  display: none;
+}
+
+.scrollToTop {
+  width: 35px;
+  height: 35px;
+  background-color: #3a80ffcc;
+  color: #fff;
+  margin: 0;
+  margin-right: 10px;
+}
+
+.buttons {
+  height: 36px;
+  width: 36px;
+  border-radius: 5px;
+  line-height: 0;
+  margin-left: 0px;
+  margin-right: 5px;
+  &:active,
+  &:focus,
+  &:hover {
+    background: #f5f5f5;
+    border-color: #dddddd;
+    box-shadow: none;
+  }
+}
+
+.btnDropDataGridToolbar {
+  width: 35px;
+  height: 35px;
+}
+
+.bottomCommands {
+  display: flex;
+  margin-bottom: 40px !important;
+  height: 40px;
+  width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.breadcrumb {
+  display: inline-flex;
+  > span {
+    margin: 15px 10px 0px -20px;
+  }
+}
+
+.columnChooserItem {
+  display: inline-flex;
+  width: 100%;
+  .title {
+    width: 60%;
+    padding-top: 10px;
+    margin-left: 10px;
+  }
+  .columnChooserButtons {
+    width: 40%;
+    float: right;
+    display: inline-flex;
+    height: 30px;
+  }
+  .button {
+    width: 60px;
+    height: 20px;
+    font-size: larger;
+    font-weight: bolder;
+    > span {
+      display: block !important;
+      transform: translateY(-5px) !important;
+    }
+  }
+  .checkbox {
+    margin: 10px 10px 0px 10px;
+  }
+}
+
+.clNotificationMessage {
+  padding: 15px;
+  font-size: 12px;
+  display: flex;
+  align-items: flex-end;
+  color: #000;
+  > label {
+    margin-left: 5px;
+  }
+}
+
+// # iPad View
+
+.cardDesktop {
+  overflow-y: scroll;
+  height: 80vh;
+}
+
+.cardDevice {
+  height: 84vh;
+  overflow: hidden;
+  // position: fixed;
+}
+
+.fixedSaveButton {
+  position: absolute;
+  width: 100%;
+  padding-left: 45%;
+  margin-left: -50px;
+  background-color: white;
+}
+
+@media only screen and (max-height: 992px) and (orientation: landscape) {
+  .container {
+    position: absolute;
+  }
+  .headerFiltersContainer {
+    padding: 20px 70px 0px 30px;
+  }
+  .fixedSaveButton {
+    top: 65.5vh;
+    background-color: white;
+  }
+}
+
+@media only screen and (max-width: 992px) and (orientation: portrait) {
+  .accslide {
+    height: -webkit-fill-available;
+  }
+  .container {
+    position: fixed !important;
+  }
+  .headerFiltersContainer {
+    padding: 20px 60px 0px 30px;
+  }
+  .fixedSaveButton {
+    top: 74vh;
+  }
+}

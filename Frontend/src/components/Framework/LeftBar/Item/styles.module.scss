@@ -1,0 +1,65 @@
+.component {
+  padding: 7.5px 10px !important;
+  background-color: transparent;
+  border: none;
+  font-size: 12px;
+  font-weight: 400;
+  color: #ffffff;
+  transition: all 0.1s ease-out;
+  cursor: pointer;
+  width: 100%;
+  text-align: left;
+  display: flex;
+  align-items: center;
+
+  > span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-height: 15px;
+    line-height: 1.5;
+    margin-left: 10px;
+  }
+
+  &.primary {
+    color: #fff;
+    border-color: var(--primary);
+    background-image: none;
+    background-position: 50% 50%;
+    background-color: var(--primary);
+    box-shadow: none;
+  }
+
+  &:hover,
+  &:active,
+  &:focus {
+    color: #fff;
+    border-color: var(--primary);
+    background-color: var(--primary);
+    // box-shadow: 0 3px 5px var(--default-shadow-color);
+  }
+  &:disabled,
+  &[disabled],
+  &.disabled {
+    color: #ccc;
+    border-color: #e6e6e6;
+    background-color: #fff;
+    background-image: none;
+    cursor: not-allowed;
+    box-shadow: none;
+  }
+  &.selected {
+    color: #fff;
+    border-color: var(--primary);
+    background-color: var(--primary);
+  }
+}
+
+span + span {
+  margin-left: 4px;
+}
+
+.imgicon {
+  height: 20px;
+  margin-right: 5px;
+}

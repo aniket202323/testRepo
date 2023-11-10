@@ -1,0 +1,31 @@
+.colorBox {
+  border: 2px solid #e9e9e9;
+  margin-top: 10px;
+  // margin: 10px;
+  // width: 50%;
+  > h2 {
+    font-size: 12px;
+    margin: 0;
+    text-align: center;
+    background: #cfd8dc;
+    padding: 2.5px;
+  }
+  > div {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    > span {
+      flex: 1 1 auto;
+      padding: 2.5px;
+      margin: 0;
+      font-size: 12px;
+      text-align: center;
+    }
+  }
+}
+
+@media print {
+  .colorBoxesContainer {
+    display: none;
+  }
+}

@@ -1,0 +1,77 @@
+$max-tabs: 2;
+$tab-width: 10px;
+
+$clr-bg: rgb(230, 230, 230);
+$clr-bg-light: rgb(231, 231, 231);
+$clr-bg-lighter: rgb(231, 231, 231);
+$clr-primary: rgb(231, 231, 231);
+
+.content {
+  overflow: hidden;
+}
+
+.accordion {
+  list-style: none;
+  margin-top: 55px;
+  .accInput {
+    position: absolute;
+    top: -9999px;
+    left: -9999px;
+  }
+  .accLabel {
+    display: block;
+    float: left;
+    width: $tab-width;
+    overflow: hidden;
+    background: $clr-bg-light;
+    text-align: center;
+    font-size: 14px;
+    line-height: $tab-width;
+  }
+
+  li:nth-child(even) > .accInput + .accLabel {
+    background: $clr-bg-lighter;
+  }
+
+  .accInput:checked ~ .accLabel {
+    background: $clr-primary;
+    color: #fff;
+    cursor: default !important;
+    width: $tab-width;
+  }
+
+  .accslide {
+    display: block;
+    width: 0px;
+    float: left;
+    overflow-x: hidden; //
+    padding: 10px;
+    line-height: 1.5;
+    white-space: nowrap;
+    transition: all 700ms ease;
+  }
+
+  .accInput:not(:checked) ~ .accLabel > * {
+    padding-left: 7px;
+    font-size: 1.2em;
+    white-space: nowrap;
+    font-weight: bold;
+    display: none;
+  }
+
+  .accInput:checked ~ .accLabel > * {
+    transform: rotate(270deg);
+  }
+}
+
+@media only screen and (max-height: 992px) and (orientation: landscape) {
+  .contentiPad {
+    height: 64vh;
+  }
+}
+
+@media only screen and (max-width: 992px) and (orientation: portrait) {
+  .contentiPad {
+    height: 72vh;
+  }
+}

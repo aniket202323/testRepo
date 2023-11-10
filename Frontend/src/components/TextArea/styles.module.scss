@@ -1,0 +1,13 @@
+.component {
+  border: 2px solid #e6e6e6;
+  border-radius: var(--default-border-radius);
+  box-sizing: border-box;
+}
+
+.maxwidth {
+  width: 100%;
+}
+
+.noresizable {
+  resize: none;
+}

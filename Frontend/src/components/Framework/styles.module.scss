@@ -1,0 +1,236 @@
+.root {
+  height: 100%;
+  overflow: hidden;
+}
+.logo-container {
+  height: 48px;
+  overflow: hidden;
+  width: 70px;
+  //margin-left: -10px;
+  text-align: center;
+}
+
+.logo {
+  height: inherit;
+  margin-top: -2px;
+  border-radius: 50%;
+  //transform: scale(2.5);
+}
+
+.icon {
+  position: relative;
+  margin: 7.5px;
+}
+
+.header {
+  display: flex;
+  font-size: 20px;
+  align-items: center;
+  height: 48px;
+  line-height: 48px;
+
+  h1,
+  h2 {
+    display: block;
+    padding: 0 5px;
+    height: 48px;
+    line-height: 48px;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 500;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  h1 {
+    font-size: 20px;
+  }
+
+  .separator-icon {
+    font-size: 20px;
+    padding: 0 5px;
+  }
+}
+
+.go {
+  color: #fff;
+  text-shadow: none;
+  background-color: #35aa47;
+  background-image: linear-gradient(from top, #35aa47, #35aa47);
+  background-repeat: repeat-x;
+  &:hover,
+  &:focus,
+  &.disabled {
+    background-color: #1d943b;
+    background-image: linear-gradient(from top, #1d943b, #1d943b);
+    color: #fff;
+    background-repeat: repeat-x;
+  }
+
+  &:active {
+    background-color: #35aa47;
+    background-image: linear-gradient(from top, #35aa47, #1d943b);
+    background-repeat: repeat-x;
+  }
+}
+.export {
+  color: #333;
+  text-shadow: none;
+  background-color: #eee;
+  background-image: linear-gradient(from top, #eee, #eee);
+  background-repeat: repeat-x;
+  &:hover,
+  &:focus,
+  &.disabled {
+    background-color: #f5f5f5;
+    background-image: linear-gradient(from top, #eee, #ddd);
+    color: #999;
+    background-repeat: repeat-x;
+  }
+
+  &:active {
+    background-color: #eee;
+    background-image: linear-gradient(from top, #eee, #dcdcdc);
+    background-repeat: repeat-x;
+  }
+}
+.main {
+  background: #ffffffbf;
+  // height: calc(100vh - var(--topbar-height));
+  // height: 100%;
+  display: flex;
+}
+
+.mainContent {
+  background-color: #ffffff;
+  // height: calc(100vh - var(--topbar-height));
+  height: calc(var(--vh) - var(--topbar-height));
+  // min-height: -webkit-fill-available;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: hidden;
+}
+
+.filterButton {
+  font-size: 22px;
+  padding: 12px 16px !important;
+  border: none;
+  background: #f7f9fa;
+  border-radius: 0;
+  color: #c5c5c5;
+  margin: 0;
+}
+
+.right-info {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  .username,
+  .timeout {
+    padding-right: 5px;
+  }
+}
+
+.site {
+  text-transform: uppercase;
+}
+
+.advice {
+  /* height: var(--advice-height);
+  width: var(--advice-width); */
+  /* right: calc(50% - var(--advice-width) / 2); */
+  padding: 0.2rem;
+  font-size: 0.9rem;
+  /* border-bottom-left-radius: var(--default-border-radius);
+  border-bottom-right-radius: var(--default-border-radius); */
+  border-radius: var(--default-border-radius);
+  background-color: red;
+  color: var(--light);
+  text-align: center;
+  display: flex;
+  /* position: absolute; */
+  align-content: center;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  z-index: 9999999;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+// .leftBarButton {
+//   display: none;
+// }
+
+.centerTopBar {
+  display: flex;
+  align-items: center;
+  > h3 {
+    font-weight: normal;
+  }
+  > span {
+    font-size: xx-small;
+    margin-top: 2px;
+    margin-left: 5px;
+    font-weight: normal;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1024px) {
+  .userDefinedInputs {
+    display: none !important;
+  }
+  .showMax1024 {
+    display: none !important;
+  }
+
+  .showMin1024 {
+    display: flex !important;
+  }
+
+  .username,
+  .timeout {
+    padding-left: 5px;
+  }
+}
+
+@media (min-width: 1025px) {
+  .showMax1024 {
+    display: flex !important;
+  }
+  .showMin1024 {
+    display: none !important;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    overflow: auto;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 landscape;
+  }
+  .root {
+    height: 100%;
+    width: 1366px;
+  }
+  html,
+  body {
+    height: 100%;
+  }
+  .mainContent {
+    height: 100%;
+    overflow: scroll;
+  }
+  .main {
+    height: 100%;
+  }
+  .logo-container {
+    display: none;
+  }
+}

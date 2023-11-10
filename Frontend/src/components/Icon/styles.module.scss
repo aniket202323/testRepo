@@ -1,0 +1,27 @@
+.iconComponent {
+  display: contents;
+  color: var(--primary-light);
+  cursor: pointer;
+  > i {
+    font-size: large;
+    color: var(--primary-light);
+  }
+
+  &.primary {
+    > i {
+      color: #fff;
+    }
+  }
+
+  &.wasImage {
+    > i {
+      font-size: large;
+    }
+  }
+}
+
+.icon {
+  font-size: medium;
+  color: var(--primary-light) !important;
+  cursor: pointer;
+}

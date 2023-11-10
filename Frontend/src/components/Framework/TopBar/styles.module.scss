@@ -1,0 +1,17 @@
+.topbar {
+  position: relative;
+  background-color: var(--primary);
+  height: var(--topbar-height);
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  z-index: 11;
+  color: white;
+  font-size: 15px;
+  font-weight: 100;
+}
+@media print {
+  .topbar {
+    display: none;
+  }
+}

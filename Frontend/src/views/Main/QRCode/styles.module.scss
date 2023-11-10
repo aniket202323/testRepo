@@ -1,0 +1,153 @@
+.container {
+  // border: "1px solid #003da5";
+  // background-color: #000;
+  width: 100%;
+  box-sizing: border-box;
+  color: #000000db;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  height: 100%;
+}
+
+.breadcrumbButton {
+  font-size: 22px;
+  padding: 12px 16px !important;
+  border: none;
+  background: var(--primary-alpha);
+  border-radius: 0;
+  color: #c5c5c5;
+  margin: 0.5px;
+}
+
+.dgrConteiner {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: hidden;
+  width: 100%;
+  height: calc(100% - 220px);
+  padding-top: 15px;
+}
+
+.multiSelectionGroup {
+  display: flex;
+  flex-direction: row;
+  margin-top: -10px;
+}
+
+.selectBox {
+  max-height: 170px;
+  min-height: 170px;
+  max-width: calc((100% / 3) - 10px);
+  font-size: 12px;
+  margin: 5px;
+}
+
+.selectBoxOne {
+  max-height: 190px;
+  min-height: 190px;
+  font-size: 12px;
+  margin: 5px;
+  width: 300px;
+  max-width: 300px;
+}
+
+.rboQrCode {
+  display: inline-flex;
+  width: 100%;
+  > div > div > div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    > div > div {
+      padding: 10px 5px;
+    }
+  }
+  .headerLeft {
+    width: 80%;
+  }
+  .headerRight {
+    float: right;
+    width: 20%;
+    transform: translateY(-5px);
+    margin-bottom: 10px;
+    > button {
+      height: 28px;
+      display: inline-flex;
+      float: right;
+      > span:first-child {
+        transform: translateY(4px);
+      }
+    }
+  }
+}
+
+.byRouteConteiner {
+  max-height: 200px;
+  margin: 20px 0px;
+}
+
+.routesConteiner {
+  margin: 20px 0px;
+}
+
+.selectBoxQrCode {
+  max-height: 300px;
+  min-height: 250px;
+  font-size: 12px;
+  margin: 5px;
+  width: 300px;
+  max-width: 300px;
+}
+
+.ddnByLines {
+  height: 30px;
+  margin: 0px 15px;
+}
+
+.qrPopup {
+  text-align: center;
+  margin: 20px;
+}
+
+.noTaskContainer {
+  margin-top: 25px;
+}
+
+.noTaskMessage {
+  color: #5f5f5f;
+  background: #17a2b82e;
+  padding: 12px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  font-size: 11px;
+  margin-right: 5px;
+  margin-top: 5px;
+  width: fit-content;
+  img {
+    position: absolute;
+    height: 15px;
+    width: 15px;
+    transform: scale(1.25);
+  }
+  label {
+    margin-left: 25px;
+  }
+}
+
+.grdQrDetails {
+  margin: "15px";
+  max-height: 250px;
+}
+
+.selectBox {
+  max-height: 190px;
+  min-height: 190px;
+  max-width: 250px;
+  font-size: 12px;
+  margin: 5px;
+}

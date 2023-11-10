@@ -1,0 +1,137 @@
+.container {
+  overflow: auto;
+  max-height: 500px;
+}
+
+.columnChooser {
+  display: flex;
+  margin-bottom: 25px;
+  .list {
+    width: 50%;
+    height: 150px;
+    padding: 10px;
+    label {
+      font-size: 15px;
+      font-weight: 500;
+      display: block;
+      margin-left: 5px;
+      margin-bottom: 10px;
+    }
+  }
+}
+
+.viewSetting {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  flex-direction: column;
+  .buttonsGroup {
+    display: flex;
+  }
+}
+
+.viewSelector {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  .viewBox {
+    flex-direction: column;
+    flex: 0 1 32%;
+    border: 1px solid #a8e8f0;
+    border-radius: 5px;
+    min-height: 125px;
+    margin: 0 5px;
+    > label {
+      display: flex;
+      font-size: 15px;
+      font-weight: 500;
+      margin-bottom: 10px;
+      padding: 2px 5px;
+      background: #00bcd457;
+      border-radius: 5px;
+    }
+    span {
+      margin-left: 4px;
+    }
+  }
+}
+
+.viewItem {
+  .viewItem_remove,
+  .viewItem_lock,
+  .viewItem_copy,
+  .viewItem_globe,
+  .viewItem_user {
+    font-size: 14px;
+    display: inline-flex;
+    padding: 0 2px !important;
+  }
+
+  .viewItem_remove {
+    color: var(--red);
+    cursor: pointer;
+    margin-left: -5px;
+  }
+
+  .viewItem_lock {
+    color: var(--yellow);
+  }
+
+  .viewItem_copy {
+    cursor: pointer;
+  }
+
+  .viewItem_globe,
+  .viewItem_user {
+    float: right;
+    margin-right: 5px;
+    color: #7b7b7b;
+  }
+
+  .viewItem_title:hover {
+    color: var(--primary-light);
+    cursor: pointer;
+  }
+}
+
+.newCustomView {
+  display: flex;
+  flex-direction: column;
+  margin: 0 15px;
+  padding: 0 15px;
+  &_hide {
+    display: none;
+  }
+}
+
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.flexEnd {
+  justify-content: flex-end;
+}
+
+.currentView {
+  margin: 10px 15px;
+  display: flex;
+  font-size: 14px;
+}
+
+.setViewInfo {
+  font-size: 14px;
+  margin: 0 15px;
+  background: #efefef;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  img {
+    width: 20px;
+  }
+  label {
+    margin-left: 10px;
+  }
+}

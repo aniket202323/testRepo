@@ -1,0 +1,22 @@
+.container {
+  margin: 5px;
+  div {
+    font-size: 13px;
+    span:first-child {
+      width: 22px;
+      height: 20px;
+      border: 1px solid var(--primary-light);
+      font-size: 15px;
+      &::before {
+        margin-left: -7.5px;
+      }
+    }
+  }
+}
+
+.container[aria-checked="true"] {
+  div > span:first-child {
+    background-color: var(--primary-light);
+    color: white !important;
+  }
+}

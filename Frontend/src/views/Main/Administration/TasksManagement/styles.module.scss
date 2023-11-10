@@ -1,0 +1,205 @@
+.container {
+  // width: 100%;
+  box-sizing: border-box;
+  color: #000000db;
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: auto;
+  // min-height: calc(100vh - 92px);
+  &_taskEditor {
+    position: absolute;
+    z-index: 10;
+    top: 92px;
+    width: 100%;
+    height: calc(100% - 92px);
+  }
+}
+
+.tasksMgmtMainFilterGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+  .chkEditMode {
+    top: -1px;
+    position: relative;
+    > div {
+      font-size: 12px;
+      > span:first-child {
+        width: 18px;
+        height: 18px;
+      }
+    }
+  }
+}
+
+.multiSelectionGroup {
+  display: flex;
+  flex-direction: row;
+}
+
+.selectBoxPM {
+  max-height: 185px;
+  min-height: 185px;
+  font-size: 12px;
+  margin: 5px;
+  max-width: calc((100% / 5) - 10px);
+}
+
+.selectBoxFL {
+  max-height: 185px;
+  min-height: 185px;
+  font-size: 12px;
+  margin: 5px;
+  max-width: calc((100% / 4) - 10px);
+}
+
+.grdTasksSelection {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  flex: 1 1 auto;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.add {
+  color: white;
+  background-color: #1bff00;
+}
+.modify {
+  color: white;
+  background-color: #ffff00;
+}
+.obsolete {
+  color: white;
+  background-color: #ff0000;
+}
+
+.editorContainer {
+  position: relative;
+  overflow: hidden;
+  margin: 5px;
+}
+
+.butttonCommand {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+
+  .buttons {
+    height: 36px;
+    width: 36px;
+    border-radius: 5px;
+    line-height: 0;
+    margin-left: 0px;
+    margin-right: 5px;
+    &:active,
+    &:focus,
+    &:hover {
+      background: #f5f5f5;
+      border-color: #dddddd;
+      box-shadow: none;
+    }
+  }
+}
+
+//set checkbox style
+.checkbox {
+  // margin: 5px;
+  div {
+    font-size: 13px;
+    span:first-child {
+      width: 22px;
+      height: 20px;
+      border: 1px solid var(--primary-light);
+      font-size: 15px;
+      &::before {
+        margin-left: -7.5px;
+      }
+    }
+  }
+  [aria-checked="true"] {
+    div > span:first-child {
+      background-color: var(--primary-light);
+      color: white !important;
+    }
+  }
+}
+
+.breadcrumbButton {
+  font-size: 22px;
+  padding: 12px 16px !important;
+  border: none;
+  background: var(--primary-alpha);
+  border-radius: 0;
+  color: #c5c5c5;
+  margin: 0.5px;
+}
+
+.scheduleExplanation {
+  color: #5f5f5f;
+  background: #17a2b82e;
+  padding: 20px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  img {
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    padding: 2px;
+    transform: scale(1.25);
+    top: 18px;
+    left: 18px;
+  }
+  label {
+    margin-left: 25px;
+  }
+}
+
+.popupBtnSave {
+  float: right;
+  margin-right: 0px;
+}
+
+.rawDataGrid {
+  display: none;
+}
+
+.editedCell {
+  background-color: #ffa500 !important;
+}
+
+.requiredBadge {
+  &::after {
+    pointer-events: none;
+    font-weight: 700;
+    margin-top: -8px;
+    width: 16px;
+    height: 16px;
+    text-align: center;
+    line-height: 16px;
+    font-size: 11px;
+    background-color: #d9534f;
+    color: #fff;
+    content: "!";
+    border-radius: 50%;
+    display: inline-block;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .multiSelectionGroup {
+    flex-wrap: wrap;
+    align-content: flex-start;
+  }
+
+  .selectBoxPM {
+    width: calc(100% / 4);
+    max-width: 100%;
+  }
+}

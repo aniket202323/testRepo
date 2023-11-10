@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCIL", "eCIL\eCIL.csproj", "{74C10DE5-E069-47BD-B712-AA9746684BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eCIL_DataLayer", "eCIL_DataLayer\eCIL_DataLayer.csproj", "{9039FE8B-880A-424F-903E-B481E30FEDA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C10DE5-E069-47BD-B712-AA9746684BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C10DE5-E069-47BD-B712-AA9746684BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C10DE5-E069-47BD-B712-AA9746684BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C10DE5-E069-47BD-B712-AA9746684BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9039FE8B-880A-424F-903E-B481E30FEDA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9039FE8B-880A-424F-903E-B481E30FEDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9039FE8B-880A-424F-903E-B481E30FEDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9039FE8B-880A-424F-903E-B481E30FEDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07881DC1-91D1-431E-A2DE-73DAD177E3FA}
+	EndGlobalSection
+EndGlobal
